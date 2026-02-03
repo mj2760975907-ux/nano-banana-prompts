@@ -27,17 +27,21 @@ No limitations found.
 --- ## 🎨 Curated Prompt Collection Explore our carefully selected collection of
 high-quality prompts, complete with visual examples and detailed instructions.
 
-### A screenshot of the TV show Traitors where the axo
+### a buddha walk in a bar
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/e20f4895dcf3fba7f528e191a89ab9d4.jpeg" width="400" alt="A screenshot of the TV show Traitors where the axo" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/8e5308a3ba1ca30c773e573b65ada7ac.jpeg" width="400" alt="a buddha walk in a bar" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-A screenshot of the TV show Traitors where the axolotl, anthropomorphic tiger man, and Jawa are all traitors in red robes who write down their decision to murder Goku with blue hair. 
+a buddha walk in a bar, cyclop cat with crown & amor & monocular eyeglasses, anthropomorphic tigers in suit & tie, cloaked Jawas with glowing eyes, axolotls in wizard hat, some Anime Girls/waifu in japanese schoolgirl uniform/serafuku, goth girls, some fury running around, red skin oni/demon girl in kimono with katana, a blue robot & a cute maid with pink hair, owl, penguin,  a man wearing a traffic cone armor & helmet, a white haired warhammer sister of battle, a buff gay man with purple mohawk and purple bread and glasses, A green frog in a suit, a white bunny, a orange fox. the buddha reaction like 'wtf'shocking.
+The blue hexagonal logo contains the letter 'C', on the wall.
+
+impressionist painting, loose brushwork, vivid, vibrant, light and shadow play, captures feeling over form, 
+beautiful, detailed, textural, artistic, very aesthetic, intricate details, highly detailed, ultra-detailed, absurdres,
 ```
 </details>
 
@@ -58,38 +62,6 @@ Subject: rabbit taur knight girl with a long spear and blond hair.
 ```
 </details>
 
-### a buddha walk in a bar
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/8e5308a3ba1ca30c773e573b65ada7ac.jpeg" width="400" alt="a buddha walk in a bar" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-a buddha walk in a bar, cyclop cat with crown & amor & monocular eyeglasses, anthropomorphic tigers in suit & tie, cloaked Jawas with glowing eyes, axolotls in wizard hat, some Anime Girls/waifu in japanese schoolgirl uniform/serafuku, goth girls, some fury running around, red skin oni/demon girl in kimono with katana, a blue robot & a cute maid with pink hair, owl, penguin,  a man wearing a traffic cone armor & helmet, a white haired warhammer sister of battle, a buff gay man with purple mohawk and purple bread and glasses, A green frog in a suit, a white bunny, a orange fox. the buddha reaction like 'wtf'shocking.
-The blue hexagonal logo contains the letter 'C', on the wall.
-
-impressionist painting, loose brushwork, vivid, vibrant, light and shadow play, captures feeling over form, 
-beautiful, detailed, textural, artistic, very aesthetic, intricate details, highly detailed, ultra-detailed, absurdres,
-```
-</details>
-
-### There is Hayase Nagatoro an anime character. On se
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/bc36954153ece5e73c19beb878f824d1.jpeg" width="400" alt="There is Hayase Nagatoro an anime character. On se" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-There is Hayase Nagatoro an anime character. On secong picture an Amogus, a character from Among Us game. Turn Hayase Nagatoro into amogus-like creature, design should be simple, but save Hayase Nagatoro's design features like hair style and school uniform, also don't give this character a human legs
-```
-</details>
-
 ### normie the hedgehog
 
 **Model:** nano-banana
@@ -101,85 +73,6 @@ There is Hayase Nagatoro an anime character. On secong picture an Amogus, a char
 
 ```markdown
 normie the hedgehog
-```
-</details>
-
-### make an image of a new DND race reference sheet na
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/589622d6a011bf3ab786d27723af59ef.jpeg" width="400" alt="make an image of a new DND race reference sheet na" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-make an image of a new DND race reference sheet named "Axoawaiger" that's a combination of tiger, axolotl and jawa. Include multiple angles, expressions, traits and abilities
-```
-</details>
-
-### A faithful
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/d7c0289c6023469926c05e4f8324d363.jpeg" width="400" alt="A faithful" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-A faithful, scene-accurate 3D recreation of the provided reference image, preserving the exact composition, pose, camera angle, character design, environment layout, color palette, and mood — but rendered entirely in stylized 3D. Render quality: high-detail 3D render, clean topology, PBR materials, global illumination, soft ambient occlusion, subtle subsurface scattering on fur, cinematic but faithful reproduction. Detailed and realistic feathers
-
-
-
-++++++++++++
-
-
-A faithful, scene-accurate 3D recreation of the provided reference image, preserving the exact composition, pose, camera angle, character design, environment layout, color palette, and mood — but rendered entirely in stylized 3D. Render quality: high-detail 3D render, clean topology, PBR materials, global illumination, soft ambient occlusion, subtle subsurface scattering on fur, cinematic but faithful reproduction. Detailed and realistic feathers
-
-Subject: A little bit tired (with bags under eyes) but extremely cheery (indicated by :D face) harpy courier resting on a cliff in Tianshan mountains, as morning sun illuminates them slowly dispersing the morning fog
-```
-</details>
-
-### A towering Ultramarines Space Marine in heavily ba
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/ad5f27fb66fd2291adc838966652305f.jpeg" width="400" alt="A towering Ultramarines Space Marine in heavily ba" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-A towering Ultramarines Space Marine in heavily battle-scarred cobalt-blue power armor stands in a destroyed modern kitchen, ceramite plates cracked with deep gouges, bullet holes, scorch marks, and xenos claw scratches across pauldrons and chest, purity seals torn, aquila emblem dented. His helmet visor is up revealing a grim stoic face, but both massive gauntleted hands delicately hold a perfect tall stack of fluffy golden pancakes dripping syrup. On the counter lie a huge bolter rifle, chainsword, and glowing blue power sword amid spilled flour and broken dishes. A pan on the stove is engulfed in flames, smoke billowing, cabinets blasted open, walls pocked with craters. Dramatic volumetric lighting, absurd heroic-comedic atmosphere. ultra-detailed armor textures, battle damage, glossy pancakes, 8k masterpiece, sharp focus, cinematic lighting, best quality.
-```
-</details>
-
-### Make it late night. Add reflected red and blue lig
-
-**Model:** nano-banana
-
-<img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/83076b3b-02b1-434c-98c1-ed7b8b864784/original&#x3D;true/83076b3b-02b1-434c-98c1-ed7b8b864784.jpeg" width="400" alt="Make it late night. Add reflected red and blue lig" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-Make it late night. Add reflected red and blue lights. Make the driver look more like a cop. Make the caption a bit bigger and end it with a skull emoji
-```
-</details>
-
-### An epic yet ridiculous scene of a battle-worn Ultr
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/7782a7e0c7b75ee07a597b66c5a8ffde.jpeg" width="400" alt="An epic yet ridiculous scene of a battle-worn Ultr" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-An epic yet ridiculous scene of a battle-worn Ultramarines Space Marine in deep blue power armor riddled with bullet holes, las-burns, and massive dents, shoulder pads chipped and purity seals fluttering, standing tall in a chaotic kitchen. He carefully balances a flawless high stack of pancakes topped with butter and berries in his enormous armored hands. Counter cluttered with oversized bolter, plasma gun, and humming power sword next to mixing bowls and cracked eggs. Stove fire rages in a flaming pan, counters scorched, fridge door hanging off hinges, debris everywhere. Intense rim lighting from overhead, grimdark humor vibe. highly detailed ceramite wear, smoke, syrup drips, 8k masterpiece, sharp focus, cinematic volumetric god rays, best quality.
 ```
 </details>
 
@@ -197,17 +90,131 @@ wrong serval... i found the limitations of banano
 ```
 </details>
 
-### The minion&#x27;s eye is looking at the green owl - the
+### Make it late night. Add reflected red and blue lig
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/6b4e58275f3ee6101c7c9d20ebe9c1d7.jpeg" width="400" alt="The minion&#x27;s eye is looking at the green owl - the" />
+<img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/83076b3b-02b1-434c-98c1-ed7b8b864784/original&#x3D;true/83076b3b-02b1-434c-98c1-ed7b8b864784.jpeg" width="400" alt="Make it late night. Add reflected red and blue lig" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-The minion's eye is looking at the green owl - the minion is angry - add blood specks on the bat
+Make it late night. Add reflected red and blue lights. Make the driver look more like a cop. Make the caption a bit bigger and end it with a skull emoji
+```
+</details>
+
+### On the first and second image you can see Hooh - l
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/43cc6faaae9e1b8231771f54dac5120a.jpeg" width="400" alt="On the first and second image you can see Hooh - l" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+On the first and second image you can see Hooh - large pet great horned owl. I want to make another pic with this owl
+
+
+
+On pictures 3-4-5-6 you can see Ho'olheyak a Snake-Bird-Woman from Arknights. I want to use her clothes (and some other elements, like her long black snake tail and those green headwings) for Hooh.
+
+
+
+Let's move to the actual prompt:
+
+
+
+Photorealistic picture, Great Horned Owl Hooh dressed as Ho'olheyak from Arknights. Hooh is currently sitting (human-like sitting, with legs forward) on a leather chair in a dim room with a wall-sized window showing an illuminated city. The room is dim, next to her is a table with a bottle of some drink, the room more or less looks like magician workplace, filled with books and weird contraptions, but also has a vibe of a detective's office.
+
+
+
+Hooh wears the Ho'olheyak intricate coat, a tiny, tailored version of it (only coat, it just rests on Hooh shoulders, no shirt, nothing else). Her ear tufts are replaced with those blue headwings that you can see Ho'olheyak have on picture 5. Hooh now also has a long black snake-like tail, wrapping around the chair she is resting on.
+
+
+
+Hooh is looking at viewer. Art style: photorealistic.
+
+Use 3:4 ratio. Hooh looks directly at us with a smug expression. The point of view is slightly high above her from side, so she is looking up at us.
+
+
+
+Add text below: "Ho'oheyak" in a cursive font, and stylize it like it was written by the original Ho'olheyak
+
+
+
+And the room should be dark, with colors muted, and only really colorful things should be hooh's eyes, those green accents on clothes and head wings, tail, and a green glow from a bottle. Even a little noir like style.
+```
+</details>
+
+### A cute chibi anime girl with large mouse ears and 
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/9150ad4f64499169d5a47faf5905b393.jpeg" width="400" alt="A cute chibi anime girl with large mouse ears and " />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+A cute chibi anime girl with large mouse ears and white hair, pink eyes, wearing a light blue dress, standing in front of a traditional Japanese wooden house entrance. She is holding a wooden square measuring box (masu) filled with roasted soybeans. She is throwing the soybeans forward, scattering beans in the air. Dynamic pose, energetic expression. Setsubun festival theme, Mamemaki (bean throwing) tradition. High quality, detailed anime art style, vibrant colors. --ar 2:3
+```
+</details>
+
+### A high-resolution cinematic shot of the tattooed w
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/56b52f115061316feee4c041b85ad345.jpeg" width="400" alt="A high-resolution cinematic shot of the tattooed w" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+A high-resolution cinematic shot of the tattooed woman with cybernetic facial implants from the first image riding the black and gold Ducati Monster 1200 S from the second image, keep the red Monster signature. She is wearing a dark tanktop, dark antique weathered leather pants and heavy leather biker boots. Keep her implanted fine wires, keep her sterilized dragon tattoo. She is aggressively leaning forward in a dynamic riding posture, muscles in her arms and back tensed with effort. Her dark hair whips wildly in the wind. The setting is a desolate, rugged Cyberpunk 2077-style badlands road at dramatic sunset. Golden-orange light from the visible, setting sun casts long, sharp shadows and strong reflections on her tattooed skin, cybernetics, and the Ducati's metallic components. Intense motion blur streaks the background landscape and road, conveying high speed. The entire composition is slightly tilted (Dutch Angle) to enhance the feeling of instability and urgency. Landscape format, 2752x1536px.
+```
+</details>
+
+### A breathtaking photorealistic scene of an ecstatic
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/9067a2cd78230544ede6e004921b1ea7.jpeg" width="400" alt="A breathtaking photorealistic scene of an ecstatic" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+A breathtaking photorealistic scene of an ecstatic 4-foot tall T-Rex soaring mid-air on a sleek black skateboard after launching off a tall urban halfpipe ramp, body arched in a dynamic mid-trick pose with short arms flung out for balance, massive happy grin showing tiny teeth, wearing a tilted navy baseball cap with a small logo. The halfpipe is weathered concrete with colorful graffiti tags and stickers, perfectly scaled for the small dino—surrounded by chain fences, spray-painted dumpsters, flickering streetlights, distant neon signs, and towering apartment buildings under a vibrant twilight sky. Motion blur on wheels and tail, wind ruffling scales, golden hour light rim-lighting the dinosaur and board. high-energy urban skate vibe, highly detailed realistic skin texture, board graphics, concrete texture, 8k masterpiece, sharp focus, cinematic motion blur and lighting, best quality.
+```
+</details>
+
+### There is Hayase Nagatoro an anime character. On se
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/bc36954153ece5e73c19beb878f824d1.jpeg" width="400" alt="There is Hayase Nagatoro an anime character. On se" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+There is Hayase Nagatoro an anime character. On secong picture an Amogus, a character from Among Us game. Turn Hayase Nagatoro into amogus-like creature, design should be simple, but save Hayase Nagatoro's design features like hair style and school uniform, also don't give this character a human legs
+```
+</details>
+
+### An image from outside a family saloon car
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/2adceff85c1da6bc95f7d6e85040d630.jpeg" width="400" alt="An image from outside a family saloon car" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+An image from outside a family saloon car, looking down at the interior from the side. In the driver's seat is an attractive middle-aged woman with her mid-brown hair in a ponytail. She is wearing a lowcut tshirt that exposes her ample cleavage. She is looking at the viewer with a flushed face and embarrassed smile. There is a single drip of viscous white fluid on her chin, and dribble of it between her breasts. In the passenger seat of the car we can see a young man in a white shirt and striped necktie fastening his pants. The car is parked in a parking lot behind a large campus building.
 ```
 </details>
 
@@ -246,6 +253,20 @@ A photorealistic image of an adorable baby harp seal pup lying on fresh Arctic s
 ```
 </details>
 
+### A screenshot of the TV show Traitors where the axo
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/e20f4895dcf3fba7f528e191a89ab9d4.jpeg" width="400" alt="A screenshot of the TV show Traitors where the axo" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+A screenshot of the TV show Traitors where the axolotl, anthropomorphic tiger man, and Jawa are all traitors in red robes who write down their decision to murder Goku with blue hair. 
+```
+</details>
+
 ### Generate me a funny comic image of a cute and fluf
 
 **Model:** nano-banana
@@ -274,67 +295,96 @@ Generate me a funny comic image of a cute and fluffy penguin in an Hawaiian shir
 ```
 </details>
 
-### A cute chibi anime girl with large mouse ears and 
+### 1998 &quot;Riot Grrrl&quot; fashion editorial
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/9150ad4f64499169d5a47faf5905b393.jpeg" width="400" alt="A cute chibi anime girl with large mouse ears and " />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/1c013664bb958db41c8dc631bf083184.jpeg" width="400" alt="1998 &quot;Riot Grrrl&quot; fashion editorial" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-A cute chibi anime girl with large mouse ears and white hair, pink eyes, wearing a light blue dress, standing in front of a traditional Japanese wooden house entrance. She is holding a wooden square measuring box (masu) filled with roasted soybeans. She is throwing the soybeans forward, scattering beans in the air. Dynamic pose, energetic expression. Setsubun festival theme, Mamemaki (bean throwing) tradition. High quality, detailed anime art style, vibrant colors. --ar 2:3
+1998 "Riot Grrrl" fashion editorial, shot on 35mm film with harsh ring flash against a plain white studio wall. A cool, grungy young woman with messy dark hair and heavy eyeliner is captured mid-air in an explosive, high-apex jump. She is wielding a humongous, human-sized silver safety pin as if it were an electric guitar, aggressively "strumming" the metal wire while kicking her legs out in a split. She wears a white baby tee with lace trim, a red plaid micro-miniskirt, and massive chunky leopard-print platform boots that dominate the frame due to the wide-angle perspective. Her expression is a fierce, tongue-out "rock star" scream. The image is high-energy, uncluttered, and hilariously punk-rock.
 ```
 </details>
 
-### The scene unfolds under a bruised
+### The minion&#x27;s eye is looking at the green owl - the
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/b0dc2fb5bfa742b0709a24be4a240e68.jpeg" width="400" alt="The scene unfolds under a bruised" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/6b4e58275f3ee6101c7c9d20ebe9c1d7.jpeg" width="400" alt="The minion&#x27;s eye is looking at the green owl - the" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-The scene unfolds under a bruised, teal sky heavy with impending storm. A jagged spire of dark rock dominates the midground, its peak illuminated by a sudden, brilliant flash of lightning that splits the clouds above. The light reveals a sparse crown of gnarled trees clinging to the stone. Below, a broad expanse of windswept grassland slopes downwards toward a deep chasm filled with glowing lava. The earth is damp and textured, showing signs of erosion and weathering. A low-lying mist clings to the valley floor, obscuring details in the distance. The overall feeling is one of stark isolation and elemental power, the light casting long shadows across the landscape. Composition emphasizes depth through atmospheric perspective; the spire acts as a visual anchor. The lava's orange glow provides a subtle contrast to the cool blues and greens.
+The minion's eye is looking at the green owl - the minion is angry - add blood specks on the bat
 ```
 </details>
 
-### solo
+### A faithful
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/ff52fb9b51e9fa4abdb9a0b3f2af6098.jpeg" width="400" alt="solo" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/d7c0289c6023469926c05e4f8324d363.jpeg" width="400" alt="A faithful" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-solo, masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, usnr, perspective,
-vibrant color palette, sketch, line art, minimal color,
-no line, ((lineless art)), 
+A faithful, scene-accurate 3D recreation of the provided reference image, preserving the exact composition, pose, camera angle, character design, environment layout, color palette, and mood — but rendered entirely in stylized 3D. Render quality: high-detail 3D render, clean topology, PBR materials, global illumination, soft ambient occlusion, subtle subsurface scattering on fur, cinematic but faithful reproduction. Detailed and realistic feathers
 
-1girl, blonde hair, blue eyes, messy hair, ponytail, medieval fantasy, off-shoulder white kimono, sarashi, war cry, standing in a field, bright, dramatic shadow, volumetric lighting, dramatic action, swinging katana, epicaction, supernatural energy, shadowy background, dynamic pose, dramatic lighting, detailed background, foreshortening, dynamic composition, dutch angle
 
-[(black background:1.5), ::2], transparent background, isometric, full body,
-absurdly detailed composition, cute colors dynamic composition,
+
+++++++++++++
+
+
+A faithful, scene-accurate 3D recreation of the provided reference image, preserving the exact composition, pose, camera angle, character design, environment layout, color palette, and mood — but rendered entirely in stylized 3D. Render quality: high-detail 3D render, clean topology, PBR materials, global illumination, soft ambient occlusion, subtle subsurface scattering on fur, cinematic but faithful reproduction. Detailed and realistic feathers
+
+Subject: A little bit tired (with bags under eyes) but extremely cheery (indicated by :D face) harpy courier resting on a cliff in Tianshan mountains, as morning sun illuminates them slowly dispersing the morning fog
 ```
 </details>
 
-### Anime Style
+### An epic yet ridiculous scene of a battle-worn Ultr
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/8b87dd103d278d4a5031ef84c9fde058.jpeg" width="400" alt="Anime Style" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/7782a7e0c7b75ee07a597b66c5a8ffde.jpeg" width="400" alt="An epic yet ridiculous scene of a battle-worn Ultr" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-Anime Style,Miss Kawahara,1girl,solo,glasses,long hair,midriff,turtleneck,lab coat,earrings,crop top,breasts,jewelry,navel,large breasts,blue hair,red eyes,hands in pockets,pants,smile,
-<lora:Discipline_illustriousXL:1>,
+An epic yet ridiculous scene of a battle-worn Ultramarines Space Marine in deep blue power armor riddled with bullet holes, las-burns, and massive dents, shoulder pads chipped and purity seals fluttering, standing tall in a chaotic kitchen. He carefully balances a flawless high stack of pancakes topped with butter and berries in his enormous armored hands. Counter cluttered with oversized bolter, plasma gun, and humming power sword next to mixing bowls and cracked eggs. Stove fire rages in a flaming pan, counters scorched, fridge door hanging off hinges, debris everywhere. Intense rim lighting from overhead, grimdark humor vibe. highly detailed ceramite wear, smoke, syrup drips, 8k masterpiece, sharp focus, cinematic volumetric god rays, best quality.
+```
+</details>
+
+### A towering Ultramarines Space Marine in heavily ba
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/ad5f27fb66fd2291adc838966652305f.jpeg" width="400" alt="A towering Ultramarines Space Marine in heavily ba" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+A towering Ultramarines Space Marine in heavily battle-scarred cobalt-blue power armor stands in a destroyed modern kitchen, ceramite plates cracked with deep gouges, bullet holes, scorch marks, and xenos claw scratches across pauldrons and chest, purity seals torn, aquila emblem dented. His helmet visor is up revealing a grim stoic face, but both massive gauntleted hands delicately hold a perfect tall stack of fluffy golden pancakes dripping syrup. On the counter lie a huge bolter rifle, chainsword, and glowing blue power sword amid spilled flour and broken dishes. A pan on the stove is engulfed in flames, smoke billowing, cabinets blasted open, walls pocked with craters. Dramatic volumetric lighting, absurd heroic-comedic atmosphere. ultra-detailed armor textures, battle damage, glossy pancakes, 8k masterpiece, sharp focus, cinematic lighting, best quality.
+```
+</details>
+
+### make an image of a new DND race reference sheet na
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/589622d6a011bf3ab786d27723af59ef.jpeg" width="400" alt="make an image of a new DND race reference sheet na" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+make an image of a new DND race reference sheet named "Axoawaiger" that's a combination of tiger, axolotl and jawa. Include multiple angles, expressions, traits and abilities
 ```
 </details>
 
@@ -352,61 +402,45 @@ masterpiece, ultra-HD, photorealistic,impressionism (1.5), high detail, depth of
 ```
 </details>
 
-### &lt;lora:B-mixxxlora:0.47&gt; &lt;lora:Nu_Gurl:0.3&gt; &lt;lora:r
+### arsworldoflight
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/feae8036d6e66a0d8ba97fa11366a0a2.jpeg" width="400" alt="&lt;lora:B-mixxxlora:0.47&gt; &lt;lora:Nu_Gurl:0.3&gt; &lt;lora:r" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/1f89a3cb33cd36263d3617ea4991becf.jpeg" width="400" alt="arsworldoflight" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-<lora:B-mixxxlora:0.47> <lora:Nu_Gurl:0.3> <lora:reij-detaILer:0.74> <lora:Breasts size slider NNFFS_alpha16.0_rank32_full_last:0.71> <lora:sexy_details_v4:0.67> <lora:Rembrandt Lighting style illu v1:0.64>
+arsworldoflight, blue light, sleeping cat, no humans, black background, cat, simple background, sparkle, animal focus, solo,  ArsWorldOfLight , cat,kitten,glowing hair, Cyberspace, Digital Cyberspace theme, ((created by glowing magical energy in cyberspace))
 ```
 </details>
 
-### score_9
+### normie the hedgehog
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/cdd1be19ce2f939139bf74388bfeef8e.jpeg" width="400" alt="score_9" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/71d129db80c553fae9f3efd7c926fa51.jpeg" width="400" alt="normie the hedgehog" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-score_9, score_8_up, score_7_up, score_6_up, 2D, source_anime, high quality, Psylocke_Blood_Kariudo_Rivals, Psylocke_Rivals, portrait shot, upper half, face focus, 1girl, solo, milf, curvy, mature female, black hair, blue eyes, blunt bangs, bangs over eye, braids, twin braids, red lips, red hat, red dress, cleavage cutout, corset, plaid skirt, puffy sleeves, black elbow gloves, scrolls on side, separated garter straps, leather straps, thighhighs, red boots, standing, arms behind back, serious face, night, city background, perfect face, venus body, voluptuous, adult female,
+normie the hedgehog
 ```
 </details>
 
-### Semi-realism
+### telephoto lens shot of 19-year-old caucasian innoc
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/67c8ed9500e635aac01a230a8d03e8f9.jpeg" width="400" alt="Semi-realism" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/f50002295163032eac0aafaad2e2839e.jpeg" width="400" alt="telephoto lens shot of 19-year-old caucasian innoc" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-Semi-realism, ma1ma1helmes_b_illu, 
-(1girl, solo, masterpiece, best quality, very aesthetic, amazing quality, absurdres, newest, simple background), BREAK, 
-pale skin, blonde hair, grey-blue eyes, parted plum lips, black lipstick, nose blush, freckles, mole on cheek, goth makeup, nun outfit, cross, cross_necklace, black guimpe, orthodox nun, traditional_nun, fishnet tights, untucked clothes, large breasts, pointy breasts, long sleeve, pear_shaped_figure, looking away, dark background
-```
-</details>
-
-### masterpiece
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/7419d57bcf67f1eec1c3d4f2925f9f33.jpeg" width="400" alt="masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-masterpiece, best quality, 1girl, solo, kzkk, red hair, spiked hair, flipped hair, short hair, queen, royal gown, cape, regal, majestic, elegant, velvet, embroidered, ornate, elaborate, embellishments, long sleeves, intricate design, crown, outdoors, architecture, pillar, bush, (nature:0.9), vines, scenery, rose, wind, falling leaves, horseback riding, riding, horse, reins, holding reins, saddle, feet out of frame, blue eyes, sidelocks, gemstone, jewelry, arch, night, night sky, perspective, foreshortening, looking at viewer, hand between legs, parted lips
+telephoto lens shot of 19-year-old caucasian innocent corporate siren girl. She has hazel-colored eyes. She has a slightly freckled skin with visible pores and fine lines around the eyes. sharp jawline with subtle dimples when smiling. thin nose with a slightly upturned tip and full lips with a natural pout. high, arched eyebrows with a slight furrow between them.. She wears a natural makeup with subtle blush on the apples of the cheeks in a rosy peach tone, light eyeshadow in a matte taupe shade applied to the crease of the eyes, and a sheer berry-toned lip gloss with a hint of shimmer..She has a long, dark brown hair styled in a sleek bun with a few strands of hair intentionally left out to create a tousled look. the bun is secured with a small, dark brown bobby pin.. Her body is slim fit, with small round-shaped breasts, muscular moderate thighs, and a thin waist. She wears a charcoal gray fitted blazer with a notch lapel, bodycon fit, button-down, showing immaculate. Her upper body is dressed in a ivory fitted button-down shirt with a point collar, long, slim fit, finished with immaculate and black scarf (silk, ribbed, with a slight sheen). Her lower body is dressed in a black fitted pencil skirt, bodycon, featuring wool blend, high-waisted, with subtle darting for a tailored fit, paired with black belt (thin, leather, with a small silver buckle), black socks (thin, sheer, with a ribbed texture), black shoes (pointed-toe pumps with a 3-inch stiletto heel). The scene is set in a modern, sleek, professional office building. Lighting is natural daylight, with minimal, due to the textured surfaces of the office furniture, soft, diffused, created by the window light, creating warm, inviting, and slightly hazy. She is sitting at a minimalist desk, legs crossed, and a focused expression on her face., captured in a eye-level, her head straight ahead, body positioned sitting upright, feet flat on the floor, wearing a focused expression. In the background: organized desk positioned center of the image, occupied chair positioned in front of the desk, full filing cabinet positioned side of the image, clear window positioned back of the image, turned off laptop positioned on the desk. photorealistic style realistic photography with subtle grain, minimal noise, moderate sharpness, shallow depth of field, and soft bokeh. Natural skin rendering with visible pores, imperfections, and micro-shadows. <lora:Mystic-XXX-ZIT-V5:1> <lora:nicegirls_Zimage:0.3>
 ```
 </details>
 
@@ -414,23 +448,7 @@ masterpiece, best quality, 1girl, solo, kzkk, red hair, spiked hair, flipped hai
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/5dea30b01e8e39477eb60e1ba39fc811.jpeg" width="400" alt="masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-masterpiece, best quality, amazing quality, 
-(flat colors:1.5), (no lineart:1.5), (realistic:1.5),
-1girl, snowwhite, snow white, wielding a sword, action scene, sand_dust, smoke, intense battle, dutch angle, close-up, fighting stance,  dirty clothes,torn clothes, dramatic lighting, vivid colors, full body, dynamic, intense, exciting, in the magic forest,
-```
-</details>
-
-### masterpiece
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/a35b1219a0aa5b5e0eb3da5a2deb83a7.jpeg" width="400" alt="masterpiece" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/6faadcc0f10f27192c4af81e76b1a0d3.jpeg" width="400" alt="masterpiece" />
 
 <details>
 <summary>View Prompt</summary>
@@ -439,26 +457,7 @@ masterpiece, best quality, amazing quality,
 masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
 Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
 1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
-Glowing gears, pants, solo, standing, black pants, blurry, shirt,Glowing hourglass, long sleeves, outstretched arm, clock, reaching, black fur, white shirt, arm up, looking at object ,(chain), feet out of frame, profile, wide shot, collared shirt, debris, school uniform, gakuseibou, depth of field, sunlight theme, looking up, looking back, golden eyes, surreal, motion blur, dutch angle, (depth of field:1.3),(Casting Magic:1.2),glowing eyes,Look up,Collapse, recovery, a pile of Flying gears,Flying fragments,Light particles entangled around,(Glowing hands:1.3
-```
-</details>
-
-### &quot;(masterpiece
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/c98f1766d4d02db26dfa473fe216e3a3.jpeg" width="400" alt="&quot;(masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-"(masterpiece, best quality, high quality, highres), very awa, highres, absurdres, 
-(chii-kun \(seedyoulater\):0.7), (inutose:0.8), (chengongzi123:0.7), 
-(no humans:1.1), (cute:1.2), comfy, solo, cozy, 
-(ostrich:1.1), 
-(tending campfire stew:0.8), (cast iron pot:0.8), (pine forest:0.8), (dusk falling:0.8), (shared spoons:0.8), (warmth:0.8), 
-depth of field, cinematic, beautiful background, "
+(close-up:1.5), black dress, ornate dress, sleeveless, pose, gesture, spirit cats, claws, long nails, black nails, gold accents, floating objects, surreal, fantasy, glowing cats, ethereal cats, floating cats, starry background, colorful, cat on foreground
 ```
 </details>
 
@@ -466,140 +465,17 @@ depth of field, cinematic, beautiful background, "
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/7fe01bb0b3cf5a825c3054cddeae175f.jpeg" width="400" alt="best quality" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/b3544e25c826b8bb5066f85f69bd6b22.jpeg" width="400" alt="best quality" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-best quality, masterpiece, extremely detailed,  dynamic, , great lighting, perfect shading, professional shading, depth of field, dark environment, steampunk, nighthawk, airwolf, gothic, blue thunder, baroque, renaissance, highly detailed, breathtaking, woman
-```
-</details>
-
-### score_9
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/f82d82443f0fd865b88d16cee6bf395c.jpeg" width="400" alt="score_9" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-score_9, score_8_up, score_7_up, Unfazed dragon, green dragon, , , yellow eyes, teeth, wings up, tail, horns, , couds, 
-Focus girl, one girl, little girl, blonde hair, flat torso, 
-score_9, score_8_up, score_7_up, red dragon
-Unfazed dragon,
-```
-</details>
-
-### wrong serval... i found the limitations of banano
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/c6ce81b308887fd078d9ddfbed58c701.jpeg" width="400" alt="wrong serval... i found the limitations of banano" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-wrong serval... i found the limitations of banano 
-```
-</details>
-
-### Extreme low angle from ground level looking up
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/235545f3d9d5bb6028161595377481b5.jpeg" width="400" alt="Extreme low angle from ground level looking up" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-Extreme low angle from ground level looking up, a woman in a sunflower yellow raincoat and red rain boots leaps over a massive puddle, captured mid-jump. The camera is positioned to show the puddle's reflection, which instead of showing her jumping figure, shows her standing calmly with an umbrella in a completely different scene—a sunny day. Her actual jumping form is silhouetted against dramatic storm clouds above, hair and coat whipping in the wind. Rain falls around her in visible streaks. Surrounding the puddle, wet cobblestones glisten, and fallen autumn leaves float on water. The perspective makes her appear giant against the stormy sky, powerful and free.
-Vibe: Defying both gravity and reality, living multiple moments simultaneously
-```
-</details>
-
-### Create a photorealistic image of a breathaking bea
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/b861c5606a6d848a75fb018110f0a06c.jpeg" width="400" alt="Create a photorealistic image of a breathaking bea" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-Create a photorealistic image of a breathaking beautifu Thailand Island, surrounded by 2traditional colorful longtailboats decorated with flower garlands and colorful flags, crystall clear turquoise water, vibrant colors, bright colors,highly detailed, aesthetic, great lighting, extremely detailed,  perfect composition, a vibrant tissue of hues and textures captured digitally, best quality, realistic, captivating, intricately detailed, hyper detailed, maximalist style, dynamic lighting, superb composition, finest details, highest aesthetics, best quality, sharp focus, high contrast, stylized, clear, colorful, ultra quality, whimsical, fantastic, splash art, intricate detailed, hyperdetailed, maximalist style, hyper detailed, maximalist style,  concept art, sharp focus, harmony, serenity, calm, mysterious glow, dynamic lighting, superb composition, sharp focus, high contrast, stylized, clear, colorful, ultra quality,  best quality, DB4RZ, DB4RZ style painting, NeoPigma, in the style of cksc, anime, cyberpunk, a masterpiece, award winning, view from above
-```
-</details>
-
-### 3d
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/621b9fc73afec34019933971bb90bbba.jpeg" width="400" alt="3d" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-3d, Cyberspace, Digital Cyberspace theme, ((created by glowing magical energy in cyberspace)), lazypos, Big red male vetsion od red riding hood psychedelicdream , psychedelic dream  
-
-
-
-```
-</details>
-
-### h49s1r0
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/eb5b90b8dc517ad72c8fff6909a46c44.jpeg" width="400" alt="h49s1r0" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-h49s1r0, 1girl, makima \(chainsaw man\), chainsaw man,  anime coloring,a pink gold angel halo  realism, darkly romantic illustrations,black and red, red wings, i can't believe how beautiful this is,  sideways glance,  
-dark theme, simple background, black background, black theme, 
-masterpiece, highres, greatscore, absurdres
-soft_lighting, high_fantasy, delicate_lineart,
-soft_shading, muted_colors, ethereal_atmosphere
-```
-</details>
-
-### detailed
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/f8e5225b3e2282b02119f1a016e959c6.jpeg" width="400" alt="detailed" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-detailed, ice cube, scenery, letterboxed, cloud, cloudy sky, building, cityscape, air bubble, city lights, skyscraper, outdoors, sunset, water drop, skyline, evening, twilight, dutch angle, horizon, glass, star (sky), gradient sky, wine glass
-```
-</details>
-
-### A masterfully executed photorealistic portrait of 
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/d6daf703a89cff20857f427b4e3b4db1.jpeg" width="400" alt="A masterfully executed photorealistic portrait of " />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-A masterfully executed photorealistic portrait of a woman in her mid-twenties, confidently walking along a narrow city street in the soft daylight. The camera captures her at eye level in a vertical composition, framing her from the middle to the entire body, emphasizing the naturalness of her movements and presence. Her posture is straight and relaxed, her shoulders are straightened, one arm sways slightly forward when walking, which gives her lightness and self-confidence.
-Her skin is pale and evenly illuminated, with a realistic texture, subtle highlights and soft transitions on her cheeks and chin. She has delicate and refined facial features framed by long straight dark hair that flows smoothly over her shoulders and back. Her lips are dark and matte, which creates a striking contrast with her fair skin. Her expression is calm and warm, a slight smile and direct eye contact immediately draw attention to her face.
-She is wearing a fitted leather dress that follows the contours of her body due to the realistic properties of the material, such as soft shine, natural crease and seam tension. The fabric subtly reflects the light, giving it depth and realism. The outfit emphasizes a modern, minimalist and slightly gloomy aesthetic.
-Environment - city street 
-The woman remains the central figure of the image due to her pale skin, dark lips, graceful and confident presence in a realistic, modern urban environment.,
+best quality, amazing quality, very aesthetic, absurdres,
+1girl, sasha, green eyes, brown hair, glasses, single braid, freckles,
+dress, traditional nun, long sleeves, brown high heel boots,
+standing, holding assault rifle, trigger discipline, dynamic pose, looking at viewer, angry,
+solo, grass, blue sky, outdoors, meadow, flowers, wind, <lora:SashaSAONoobXL_byKonan:1>
 ```
 </details>
 
@@ -607,13 +483,42 @@ The woman remains the central figure of the image due to her pale skin, dark lip
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/460e03b6d8105f98770997cb5d66b8f0.jpeg" width="400" alt="1girl" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/5b52e691c990e8593469d1fe768ba339.jpeg" width="400" alt="1girl" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-1girl, solo, long hair, breasts, looking at viewer, blue eyes, simple background, white background, closed mouth, white hair, blunt bangs, expressionless, pale skin, science fiction, white skin, joints, mechanical arms, cyborg, robot joints, cyberpunk, tall female, tall masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up
+1girl,hyuuga hinata,bangs,short hair,black hair,white eyes,mature female,large breasts,subtle curves,pout, annoyed, white sweater, ribbed sweater, blue fur, fur coat,outdoors, snowing, cold,cinematic, natural skin,soft lighting, volumetric lighting, close up portrait(masterpiece:1.2), (best quality:1.2), (very aesthetic:1.2), (amazing quality,:1.2), (detailed background),(best illumination),newest, perfect anatomy,illustration
+```
+</details>
+
+### photo realistic
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/46c1e95bf8c9ebe5938ad65d1ad11a77.jpeg" width="400" alt="photo realistic" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+photo realistic, high quality photo, realistic, 16k, HDR, uber detailed.
+An image of a anonymous European woman with (thick thighs:1.5) cropped so she is seen only from the waist down, wearing white stiletto pumps covered with sparkling rhinestones. She is on stage standing directly in front of a heavy red velvet curtain. She has one leg raised and one hand on that leg's knee. She has long sculptured fingernails with a French manicure. She has a stylized image of a dancing couple tattooed on the inside of her ankle.
+```
+</details>
+
+### Magnificent futuristic Baldwin VO-1000 diesel loco
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/eff867ee7f44112f7fa238bdaee45198.jpeg" width="400" alt="Magnificent futuristic Baldwin VO-1000 diesel loco" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Magnificent futuristic Baldwin VO-1000 diesel locomotive, train, very detailed, subway train, metallic train:1.2, metallic:1.5, closeup, detailed:2.0, sheen:1.7, realistic:1.2, photorealistic. Skyline, skyscrapers:2.0, river, beautiful, day time sky. <lora:YFG-FutureIsDark-ZIB-v1-3k:1.0>
 ```
 </details>
 
@@ -621,282 +526,79 @@ The woman remains the central figure of the image due to her pale skin, dark lip
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/e38565763dafa56bbb450b19b5fc554e.jpeg" width="400" alt="masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
-Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
-1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
-aesthetic. Nice vivid colors (in handcuffs, cuffed:1.1), cool, mage, robes, witch hat, brim hat, (staff:1), dark, night, close up, wet, rainy), badass, pose, (bound wrist:0.9), (close-up:1.5), flower, hair flower, black rose, white rose, red rose, butterfly, skull, skeleton, black flower, ,tenebrism,blurry foreground, (skeleton arm) (skeleton hand), from side, wind, floating hair, petals falling, split theme, kissing skull
-```
-</details>
-
-### Create an Ink splash silhouette art on textured ri
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/4493010279787c31c380bb220359cefb.jpeg" width="400" alt="Create an Ink splash silhouette art on textured ri" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-Create an Ink splash silhouette art on textured rice paper, sepia and henna palette with selective red accent, a stunning Japanese woman in a flowing red dress stands on a busy Japanese shopping street, three quarter body view as she turns and looks directly at the viewer, her form rendered with bold brush strokes and splattered ink edges, expressive calligraphic linework and bleeding watercolor washes, abstracted crowd of shoppers in dark tones behind her, time lapse motion blur streaks through the crowd to suggest movement, street signs and storefront shapes hinted as minimal ink blocks, high contrast composition, soft paper absorbency, elegant negative space, dramatic yet refined mood, gallery quality illustration,, deep shadows and strong contrast, rich reds and warm amber highlights against a dark background, shallow depth of field, bokeh lantern lights, 50mm lens, crisp facial detail, glossy fabric texture, tranquil mysterious mood, high quality cinematic still, award winning, a masterpiece, anime, cyberpunk, DB4RZ, DB4RZ style painting
-```
-</details>
-
-### solo
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/7d46d3ba7d9f710d8fa444d3766cd5fb.jpeg" width="400" alt="solo" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-solo, masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, usnr, perspective,
-vibrant color palette, line art, 
-
-1girl, solo, standing, looking at viewer, light smile, simple background, street view background, white outline, Miyamoto Rei,  brown hair, antenna hair, long hair, brown eyes, large breasts, school uniform, skirt, zettai ryouiki, serafuku, black thighhighs, green skirt, ribbon, long sleeves,
-```
-</details>
-
-### A woman composed of blown glass and contained fire
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/46e7de05c0288c89ba1690813e5383ab.jpeg" width="400" alt="A woman composed of blown glass and contained fire" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-A woman composed of blown glass and contained fireflies drifts in a slow boat on a pitch-black river. The boat is a dried, curled leaf. The fireflies' erratic, green-yellow pulses illuminate the delicate, transparent architecture of her limbs from within, causing complex refractions to sparkle on the inky water's surface. Their light catches on the dewdrops clinging to her glass shoulders, each one acting as a lens that magnifies the tiny, frantic stars trapped inside her. <lora:Zit_DIORAMA:0.8>
-```
-</details>
-
-### Renaissance style leftover mecha
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/741986d288e46a2fa05faa831e6e00fe.jpeg" width="400" alt="Renaissance style leftover mecha" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-Renaissance style leftover mecha, Camille Pissarro (pastoral harmony), Limestone cliffs overlooking turquoise bay, woodpecker cavity in trunk, shepherd's stone hut,sparrowhawk ambushing sparrows .,Glacial valley arboretum featuring permafrost-preserved ancient pollen libraries,rainbow light, lake, flower field,  
-<lora:style_of_Rembrandt_FLUX_135:0.8>,
-<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,
-<lora:113_novuschromaFLX_1:0.2> novuschroma,
-<lora:softwhim:1> whimsical,
-<lora:FS_v3:0.4> FS,
-<lora:Mecha_Anime_style_v.1:0.7>, . realistic, perspective, light and shadow, religious or mythological themes, highly detailed, Realistic anime art style, combines anime aesthetics with lifelike details, detailed character designs, intricate backgrounds, immersive storytelling, Mecha anime art style, focuses on giant robots and mechanical suits, intricate mechanical designs, dynamic action scenes, futuristic settings, appeals to fans of science fiction and action genres
-```
-</details>
-
-### Medievalism
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/2f20003a534ef392d20aae7a769a6989.jpeg" width="400" alt="Medievalism" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-Medievalism, fairy tale A round tower with a conical blue roof, lost in a dense, impenetrable ancient forest. Shuttered windows, a whimsical weathervane on the roof, and gray stone tower walls. A mysterious and imaginative picture, filled with the spirit of a childhood fairy tale.
-high res, high detailed, vivid color, sharp focus, sharp lines, anime color, 
-<lora:CPA:1> <lora:Luminous_Shadowscape:0.6> <lora:fluxenhancer:0.75> <lora:FLUX-daubrez-DB4RZ-v2:0.35> . magical, fantastical, enchanting, storybook style, highly detailed, inspired by The Middle Ages, medieval art, elaborate patterns and decoration, Medievalism
-```
-</details>
-
-### (ultra realistic
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/d546950ce038c39f9a5b7060333d54c0.jpeg" width="400" alt="(ultra realistic" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(ultra realistic,32k,masterpiece:1.4),(high detailed skin:1.1),( high quality:1.1), (ultra high res:1.4), (masterpiece), (beautiful lighting:1.4), (high quality, dynamic angle:1.4), (high resolution:1.3), (incredibly detailed:1.28), cinematic lighting, masterpiece, perfect anatomy, absurdres, Smooth_Quality, thick outline, black outline, thick lineart, western comics style, DISNEY_ANIMATION, cinematic light,
-1girl, small scars on face, scars, black eyeshadow, black eye liner, makeup, dark futuristic armor, stealth, tan skin, ponytail hair, black hair, blonde highlights in hair, red accents in hair, curvy, transparent chest armor, mesh material over breasts, mesh material over stomach, dark full body armor, damaged armor, chunks broken off armor, wires showing, battle scared armor, weathered armor, cybernetic plate armor, computer built into armor on arm, small blue lights in armor, military headset, neck mic, radio pack on back, radio antena on back, cybernetic weapons, cybernetic pistol, pistol holster on hip, skindentation, mesh leggings,
-military drop ship bay, futuristic military drop ship, 
-detailed shadows, depth of field,
-```
-</details>
-
-### 1girl
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/d9b5d1de40fa940e9935f22d6c54ba40.jpeg" width="400" alt="1girl" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-1girl, black hair, bob hair, tucked a strand of hair behind her ear, black eyes, villainess, smirk, closed mouth, masterpiece, high detailed skin, best quality, high res, very aesthetic, villainess, smirk, perfect eyes, (colourful:1.3), (detailed face:1.4), evil smile, lush lips, plump lips, natural big breasts, (close-up portrait off-shoulde, highly detailed, masterpiece, best quality, hyper detailed, cinematic composition) 
-(masterpiece, best quality, ultra-detailed, absurdres, highres, 8k, very aesthetic, highly detailed, cinematic, full detailed, detailed face, detailed eyes) Shiny eyes, black eyeshadow, black eyeliner, portrait, face focus
-BREACK
- red and black theme, goth girl, black lip makeup, earring, black chocker, black leather jacket, white shirt, red necktie, pleated skirt, fingerless glove, Garther belt, black leather stocking
-```
-</details>
-
-### ((rouenwolf
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/d0c56b4ee2ee9c332dd81938b333087b.jpeg" width="400" alt="((rouenwolf" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-((rouenwolf,1boy,solo,furry,furry male,face scar,muscular,wolf ears,muscular,,canine tail,muscular male,large pectorals,male focus,( whiskers, bara), male,,(( k0n0hanaya)),big chest,furry)),,4k,,cel shading ,,((bara , male focus, chest tuft, fluffy chest, big chest,)),(perfect face, perfect eyes)),Expressiveh,thick thigh,perfect face, perfect eyes) ,masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, 4k, absurdres, ray tracing, realistic, intricate details, newest, scenery, 1guy, furry, anthro, solo,body fur, fluffy fur, detailed fur, detailed hair, ragged face, detailed face, detailed eyes, green buttoned shirt, rimless glasses, black necktie, fixing tie, looking away, cowboy shot, detailed background, depth of field, volumetric lighting, indoors, office building
-```
-</details>
-
-### masterpiece
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/39556af311c5afd5a7756067f6e151db.jpeg" width="400" alt="masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-masterpiece, best quality,
-zzNeuschwanstein, day, water, tree, traditional media, nature, forest, mountain, architecture, bridge, river, tower, landscape, lake
-,,
-```
-</details>
-
-### masterpiece
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/5c783960caad266a4e037b667a276b96.jpeg" width="400" alt="masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-masterpiece, best quality, very aesthetic, absurdres,
-BREAK 
-{{(light skin:2)}}, (((solo,1 girl))), (long hair, hime cut, black hair,), (expressive eyes, blue eyes), (Beautiful face, cute face), (tall, skinny body, medium breasts, toned body),   
-BREAK
-((cinematic composition, epic composition, depth of field, dynamic_lighting, detailed_background, dramatic_angle, foreshortening)), ((dynamic background)), 
-, 
-(((feet out of frame,  cinematic shot, candid stance at cliff edge, one hand shading eyes, confident adventurous smile with narrowed eyes and wind-swept hair))), (((stylish fantasy adventurer outfit with fitted corset top, flowing cape, tight leather pants, tall boots, metallic gauntlets))), (((snowy mountain peak under blazing sunset, swirling snow particles, cinematic god rays and wind gust effects))),
-BREAK
-, Jeddtl02, flat color, BSSHRGKS, blue hour, late night, dark, East Asian, K-beauty, Slanted eyes, Asian face, Korean girl, KRGRL, 99df83e1-fcb1-4499-87f0-d71ae7d2960a, <lora:51df16f0-8196-4d73-9f45-bcc0514a4893:0.7>, <lora:b30db7ae-1588-4c3c-ac9c-7300908eb343:0.4>, <lora:6023c98a-7213-43e7-8625-1efe4e41b205:0.7>, <lora:3ce30a1d-ec43-4288-a09a-3bf002e80499:-0.7>, <lora:31303ad8-bfad-4c88-a167-7d46f1927128:0.5>
-```
-</details>
-
-### (kermagathill:0.35)
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/67e9c33aeb644550aecaa39f4ec537cf.jpeg" width="400" alt="(kermagathill:0.35)" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(kermagathill:0.35), (hspunchill, shadmanill:0.5), (reiqill:0.7),
-1girl, magical girl, tsurime, rainbow eyes, blonde hair, twintails, pastel rainbow hair, multicolored hair, gradient hair, masterpiece, best quality, absurdres, very aesthetic, medium breasts, angel wings, oversized wings, (fake wings, energy wings),
-(pastel colors, pastel blue, pastel orange, pastel green, pastel purple), pastel rainbow magical girl, padded magical girl dress, kawaii, frilled skirt, thighhighs, padded pastel rainbow dress, multilayered dress, detached collar, petticoat, padded dress, puffy short sleeves, elbow gloves, rainbow tiara, gem brooch, large bow, ribbons, lace trim, frills, satin, sparkles, glitter, heart earrings, rainbow accessories, jewelry, bobby socks, frilled mary janes,
-lipgloss, eyelashes, blush, light makeup,  
-outdoors, landscape, scenery, mountain, (high up), nature, clouds, sunset, (backlighting), light particles, particles,
-solo, full body, flying, floating, midair, smile, (magic crossbow:1.2), holding crossbow
-```
-</details>
-
-### A photorealistic image of an adorable baby harp se
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/4b1cc2efe7257ae223ac85e7b955732a.jpeg" width="400" alt="A photorealistic image of an adorable baby harp se" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-A photorealistic image of an adorable baby harp seal pup lying on fresh Arctic snow under soft blue twilight, fluffy white fur sparkling with frost, huge black eyes looking innocently at the viewer, tiny black nose and whiskers. It wears a classic pointed wizard hat in dark purple with gold runes and a wide brim tilted jauntily on its head. Under one front flipper is a glowing cyan magical circle with intricate arcane symbols and runes floating just above the snow. Bold white text with black outline across the bottom reads "YOUR FATE IS SEALED" in large dramatic fantasy font. Gentle volumetric god rays from a low sun, magical sparkles drifting in the air, cozy yet mystical atmosphere. ultra-detailed fur texture, snow crystals, glowing runes, 8k masterpiece, sharp focus, cinematic lighting, best quality.
-```
-</details>
-
-### 1girl
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/ac3d073326ba495f28175f0e6db7d998.jpeg" width="400" alt="1girl" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-1girl, (dark magical girl), red eyes, slit pupils, long hair, two side up, pink hair, red hair, [[blonde hair]], multicolored hair, streaked hair, gradient hair, colored tips, masterpiece, best quality, absurdres, demon girl, demon wings, mini wings, demon tail, demon horns,
-(leather:1.2), fnxleather, kawaii, puffy dark magical girl dress, dress made of belts, black leather jacket, closed jacket, leather belts and zippers, (too many belts:1.2), excessive belts, (too many zippers:1.2), jacket zipper, side zippers, metallic zipper hardware, magical girl dress styled like a JRPG protagonist outfit with too many zippers, zipper boots, thigh boots, high heels, sparkles, red fingernails,
-outdoors, nature, clouds, overcast, night, dark, moon, sigil,
-full body, dutch angle, dynamic angle, dynamic pose, standing on one leg, looking at viewer, v over eye, one eye closed, wink, holding wand, holding dark magical girl wand, evil wand, cute fang, casting spell
-```
-</details>
-
-### (masterpiece
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/705432451f3fcd96f211bd7e4fd2c2c5.jpeg" width="400" alt="(masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(masterpiece, best quality, amazing quality, very aesthetic, high resolution, absurdres ultra-HD, 4K, realistic, newest:1), furry, no humans, (by snowskau:0.7), (by meesh:0.8), (by bebebebebe), (by kikurage:0.9) (by kame 3: 0.6), furry, no humans, female HuskHH, inside, fancy restaurant, over looking city, night, sitting at table, tablecloth, dutch angle, serene setting, detailed fur, kame 3, female, eyes wide, anthro, medium breasts, slender waist, slender, sexy poses, black leggings, suspender straps, short dress suit, long hair bangs, white bangs, white undershirt, shirt unbuttoned, cleavage, cat, feline, solo, viewer pov, resting head on hand, seductive eyes, leg crossed
-```
-</details>
-
-### masterpiece
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/9c17436f9177924af54db911a17165f7.jpeg" width="400" alt="masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
-Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
-1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
-
-side view, profile, looking up, parted lips, dazed expression, hand on jaw, hand on chin, another hand holding lips, dark background, pink atmospheremeteorhanddrawing, Bling Oil Painting, shadows, glow,
-[(by alphonse_\(white_datura\):1.3)|(by kana616:0.8)], [(by hen-tie:1.3)|(by kagami_\(galgamesion\):1.2)], (by kinokohime:1.2), (by yatsuha_\(hachiyoh\):0.8), (by j.k.:1.1), by kukka, by keihh, wlop, cinematic, epic,
-```
-</details>
-
-### masterpiece
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/a981d01d98d9f9bf258324b7125446e1.jpeg" width="400" alt="masterpiece" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/b99089a3dd59c3ec46d83645926bc1b2.jpeg" width="400" alt="masterpiece" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
 masterpiece, amazing quality, best quality, ultra-detailed, masterpiece, best quality, (((very aesthetic, artistic))), newest, (sketch, line art, illustration), meola, 
-, 
-1girl, solo, close-up portrait, neutral expression, graphic lighting, pop art style, heavy grain texture, halftone shading, two-tone color scheme, pink and black, rough edges, poster aesthetic, clean background, modern pop surrealism, red eye patch
+1girl, 
+Semirealism
+masterpiece, best quality,high quality, newest, highres,absurdres, sailor moon, side view, hand on hip pose, moon,blue , red lighting, hand raised in a strtch, long stockings, long blue skirt
+```
+</details>
+
+### Sharp lines
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/478efce0187b13c910dceb81804b6d57.jpeg" width="400" alt="Sharp lines" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Sharp lines, a close-up, artistic portrait featuring a woman and an owl. The composition is tightly framed, focusing on the woman's face and the owl's head, both occupying equal space. The woman has pale skin, with striking, large eyes that are a light shade, possibly blue or gray. Her expression is intense and slightly melancholic, with subtle scratches or marks on her face adding a sense of mystery. Her dark hair blends into the background, enhancing the focus on her facial features. The owl, positioned to the left, has detailed feathers in shades of brown and gray, with large, expressive orange eyes that mirror the intensity of the woman's gaze. The overall color palette is muted, with cool tones dominating the scene, creating a harmonious and enigmatic atmosphere. The lighting is soft, highlighting the textures of the skin and feathers, while the background remains blurred, drawing attention to the subjects. <lora:YFG-FutureIsDark-Flux2-Klein-9B-Base-v1_000000750:0.75>
+```
+</details>
+
+### A charming 3D Disney animation scene of zzNeuschwa
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/305ffae5395967bc130addfb33754a7b.jpeg" width="400" alt="A charming 3D Disney animation scene of zzNeuschwa" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+A charming 3D Disney animation scene of zzNeuschwanstein Castle at sunset, whimsical towers with playful proportions, lush green hills dotted with cute trees, sparkling ocean on the horizon under a warm cloudy sky, golden sunlight illuminating the fairy-tale architecture, joyful and enchanting mood. in the style of Disney 3D animated films like Tangled or Frozen, ultra-detailed, 8k masterpiece, vibrant colors, sharp focus, cinematic lighting.
+,,
+```
+</details>
+
+### (kiekILL
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/91705d68ca466741e5c8dda6800bbddf.jpeg" width="400" alt="(kiekILL" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+(kiekILL, kokILL:0.5), (jlullabyILL:0.9),
+1girl, blue eyes, bright pupils, glowing eyes, blonde hair, long sidelocks, crown braid, bangs, long hair, very long hair, masterpiece, best quality, absurdres,
+princess dress, long sleeves, wide sleeves, (layered dress), gown, tiara, long skirt, royal cloak, high collar, ruffles, frills, sequins, earrings, brooch, necklace, jewelry, (embroidery, embroidered dress, ornate clothed:1.2),
+armor, armored princess, steel dress, armored dress, armored skirt, breastplate, gauntlets, armored belt, armored cloak, 
+lipstick, long eyelashes, eyeshadow, makeup,
+outdoors, medieval, (cliff:1.2), standing on cliff, (rain, storm:1.2), lightning, (wind), flower, floating hair, floating cape, floating clothes,
+full body, wide shot, serious, closed mouth, looking ahead, solo, standing, sword, planted sword, (hands on hilt), huge weapon, greatsword
+```
+</details>
+
+### Make it late night. Add reflected red and blue lig
+
+**Model:** nano-banana
+
+<img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/83076b3b-02b1-434c-98c1-ed7b8b864784/original&#x3D;true/83076b3b-02b1-434c-98c1-ed7b8b864784.jpeg" width="400" alt="Make it late night. Add reflected red and blue lig" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Make it late night. Add reflected red and blue lights. Make the driver look more like a cop. Make the caption a bit bigger and end it with a skull emoji
 ```
 </details>
 
@@ -904,14 +606,233 @@ masterpiece, amazing quality, best quality, ultra-detailed, masterpiece, best qu
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/f30ce49afbf9cac98e093d2f7b936a93.jpeg" width="400" alt="masterpiece" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/15791e2a2600c523809be4cdbdb102da.jpeg" width="400" alt="masterpiece" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-masterpiece, best quality, amazing quality, very aesthetic, 
-highres, absurdres, expressive, male, duo, size difference, happy:0.5, excited:0.5, masculine, muscular, ((brown hair, glasses, beard, mid transformation:1.5, transformation:1.5)), (human, anthropomorphic lion, anthro, hairy, asymmetrical transformation, human transformation into lion, snout growth, lion tail, claws), hoodie, backwards hat, sweat pants, ripped clothing, gym, weights,
+masterpiece, best quality, amazing quality. Photo of two miniature fairy figurines with golden wings and red hair, standing on top of a white wedding cake with gold leaf designs. They are holding hands and looking at each other lovingly. The cake is placed on a silver cake stand with a candle on top. The background is blurred with bokeh lights and a green plant. The lighting is soft and warm, creating a romantic atmosphere. The image has a dreamy, romantic feel.long hair, smile, multiple girls, dress, 2girls, bare shoulders, closed eyes, heart, red hair, wings, sleeveless, barefoot, white dress, looking at another, blurry, yuri, from side, bare arms, sleeveless dress, blurry background, profile, depth of field, siblings, holding hands, leaf, table, plant, fire, interlocked fingers, mini person, minigirl, fairy wings, candle, fairy, face-to-face, insect wings, bokeh, butterfly wings, candlestand, yellow wings, candlelight, 
+
+
+
+
+```
+</details>
+
+### masterpiece
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/32452e797d30e15d297fba569c7b9b3a.jpeg" width="400" alt="masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
+Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
+1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
+impasto, brush stroke, breasts, 1girl, bare shoulders, black kimono, blunt bangs, closed mouth, fan hair ornament, from side, holding, holding smoking pipe, japanese clothes, kimono, long hair, long sleeves, mole, mole on cheek, mole under eye, mole under mouth, off shoulder, lips, ribbon, smoking pipe, solo, upper body, wide sleeves
+```
+</details>
+
+### masterpiece
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/1f567a73c50219b24019d5b76eea66be.jpeg" width="400" alt="masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
+Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
+1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
+ night, star, wind, milkyway, sitting,flower,holding instrument, playing instrument, bow \(music\), (big cello:1.2), glowing crescent moon, reflections,
+```
+</details>
+
+### Semi-realism
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/ee886ba7b65a99406b122c3831d12dee.jpeg" width="400" alt="Semi-realism" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Semi-realism, ma1ma1helmes_b_illu, 
+(1girl, solo, masterpiece, best quality, very aesthetic, amazing quality, absurdres, newest, simple background), BREAK, 
+zero two (darling in the franxx), pink hair, horns, long hair, white background, pout, :t, simple background, blush, hairband, bangs, white hairband, green eyes, red horns, upper body, oni horns, :i, meme
+```
+</details>
+
+### &lt;lora:Style_haiti5-Pr1sm_fx-ZIT:0.7&gt; Cinematic low
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/42950546166178a691340ef33581c556.jpeg" width="400" alt="&lt;lora:Style_haiti5-Pr1sm_fx-ZIT:0.7&gt; Cinematic low" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+<lora:Style_haiti5-Pr1sm_fx-ZIT:0.7> Cinematic low-angle photography viewed from the ground looking straight up into a pitch-black, stormy night sky. A resplendent holy angel bride with long, flowing blonde hair billowing upwards hovers mid-air, draped in elaborate flowing white robes and lace. She reaches one hand down toward the camera. Above her head is a blindingly intense golden halo, and in her other hand, she wields a massive greatsword ablaze with roaring rainbow fire. The intense light sources from the halo and the prismatic sword cause severe optical lens flare, resulting in aggressive, long horizontal streaks of spectral color smeared across the entire frame. The rainbow fire is pulled sideways into blinding parallel bands of red, green, and blue light that cut through the deep chiaroscuro shadows, creating an overwhelming, awe-inspiring biblical vision.
+```
+</details>
+
+### Masterpiece
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/17129cd4decfbb94abb3d754868378a8.jpeg" width="400" alt="Masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Masterpiece, best quality, ultra-detailed, 8K, cinematic, realistic style (realistic: 1.2), Hype4realistic, depth of field, ambient occlusion, raytracing, soft and volumetric lighting, bloom effect, intricate background,
+1 girl, ((Solo)) cowboy shot, dark brown hair in a bob cut, olive skin, red eyes, freckles, slim figure, narrow waist, wide hips, toned figure, perfect round butt, perky breasts (big breasts), defined waist
+- clothes - blue striped sweater, kitchen apron.
+BREAK
+Girl standing at a table, looking at the viewer, eyes closed, bright smile, looking at the viewer, holding a mitten and a bottle of ketchup. Head tilted, ((Ketchup on face, ketchup on clothes))
+Kitchen, cooking, dynamic scene, frying pan, comfort, cracked egg.
+Cowboy shot, (focus on torso)(side view) (side to the viewer) high angle, Dutch angle, dynamic lighting,
+```
+</details>
+
+### beautiful_darkness_style
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/efcdafd5cc4cc9a026388023a44c6a8e.jpeg" width="400" alt="beautiful_darkness_style" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+beautiful_darkness_style, A cinematic fantasy portrait of an ethereal elf woman seen from a low angle, centered and symmetrical, gazing calmly downward at the viewer. She has long, straight silver-white hair that falls past her shoulders, softly illuminated from behind by a warm golden backlight. Her skin is smooth and warm-toned, her expression serene and almost divine, with slightly parted lips and luminous pale blue eyes that glow subtly.
+
+Her elongated elven ears extend outward and are adorned with delicate dangling jewelry and gemstones. A fine jeweled head chain rests across her forehead, with a blue crystal set at the center, catching the light. She wears an ornate black ceremonial garment with intricate gold filigree patterns and embedded blue and red gemstones at the chest, giving the impression of royal or priestess attire.
+
+The lighting is dramatic and painterly, with strong contrast between the warm golden rim light behind her hair and the darker, moody background filled with faint glowing embers and sparks. The overall atmosphere feels mystical, regal, and otherworldly, combining dark fantasy elegance with a soft divine aura. The image is highly detailed, polished, and illustration-like, with smooth shading, sharp linework, and a refined fantasy art style.
+```
+</details>
+
+### masterpiece
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/bda3d6cc71812f34bb150384d934ded7.jpeg" width="400" alt="masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, <lora:AnyaStroudILf:1> anstilf, blonde hair, short hair, green eyes, necklace, armor, light blue background, simple background, looking at viewer, 3d, render, upper body, smile,
+```
+</details>
+
+### Minimalist painting by Albert Lynch
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/1a1295bd28c20a0b28c0fd35f284154c.jpeg" width="400" alt="Minimalist painting by Albert Lynch" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Minimalist painting by Albert Lynch, Abbott Handerson Thayer, highly detail, best quality,  A solitary, battle-worn Japanese young teen female ronin with sharp focused eyes, and long black hair tied loosely behind her. She wears a faded dark kimono and a frayed traveling cloak. Her clothing is dirty and smoke-stained from countless battles. At her side hangs a chipped but katana with a blackened, wrapped hilt. Her feet are wrapped in worn tabi and straw sandals. Her stance is calm but coiled, the presence of a girl who has survived too much strides forward through a burning village, flaming rooftops collapsing around her, sparks flying across the frame, storm clouds boiling overhead, ultra detailed, childlike, romantic, Rembrandt lighting, brush strokes, warm light, magic, extremely coherent, cute, beautiful, cinematic, stunning, creative, positive, cheerful, unique, cool, inspiring, pure, rational, very inspirational, friendly, thought, glowing, magical, perfect, intricate, wonderful, lovely, del1cate_balance style, in the style of Rembrandt. vantablack <lora:style_of_Rembrandt_FLUX_135:.8> <lora:- Flux1 - vanta_black_V2.0:.8> <lora:Delicate_Balance:.3> <lora:neeeg_f1:-1>
+```
+</details>
+
+### A retro space poster of zzNeuschwanstein Castle pe
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/caf577de953e0bf5c26c9263ac4d7db6.jpeg" width="400" alt="A retro space poster of zzNeuschwanstein Castle pe" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+A retro space poster of zzNeuschwanstein Castle perched on an alien planet at sunset, sleek spaceships zooming past colorful ringed horizons, glowing sunlight piercing cloudy purple skies, exotic crystal trees framing the glowing towers, vast ocean of liquid mercury stretching to the edge, epic sci-fi nature landscape. in classic 1950s space retro style, vibrant colors, ultra-detailed, 8k masterpiece, sharp focus, cinematic volumetric lighting.
+,,
+```
+</details>
+
+### vast fantasy  landscape of pure untouched nature
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/1e0cc6763d556907d6295523e138b517.jpeg" width="400" alt="vast fantasy  landscape of pure untouched nature" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+vast fantasy  landscape of pure untouched nature, pristine environment with no signs of civilization, timeless and primordial atmosphere, epic scale, cinematic wide-angle composition, highly detailed, painterly realism, fantasy landscape illustration, serene yet awe-inspiring mood
+```
+</details>
+
+### Best quality
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/4982f661f3ea694554ca28ce70fc407e.jpeg" width="400" alt="Best quality" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Best quality, Semi-realism, masterpiece, cinematic, very aesthetic, high quality, absurdres, detailed background, low lighting, ultra-detailed, realistic, 4k, 1girl, solo, out of frame, purple pantyhose, feet focus, feet closeup, dynamic pose
+```
+</details>
+
+### masterpiece
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/c7c5d0054ef6b01b4967e6c6632c39d1.jpeg" width="400" alt="masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+masterpiece, best quality, very aesthetic, amazing quality, 4k, high resolution, ultra-detailed, absurdres, beautiful, perfect body, beautiful face, 1 girl, standing, looking at viewer, reptile girl, monster girl, FScales, red scales, lizard tail, red tail, blonde hair, long hair, high ponytail, bangs, sidelocks, green eyes, grey crop top, hair ribbon, blue ribbon, shoulder tattoo, bare shoulders, need_buzz, holding sign, pregnant, bare feet, detailed eyes, perfect eyes, anime eyes, high detail eyes, multicolored iris, detailed iris, anime style, denim shorts, navel, glossy eyes, stylized_glossy_eyedetail
+```
+</details>
+
+### Civitai #114678021
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/ffadd5b41fde90533d31184a4e5f97a3.jpeg" width="400" alt="Civitai #114678021" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+,  good quality newest focused subject, ghost in the shell aesthetic, monochrome, black and white, line art, sketch style, technical drawing, closeup shot, 1girl, cyborg, gynoid, face focus, segmented face with panel lines, dark vacant eyes, intricate wiring and cables extending upwards from head and neck, exposed mechanical components above cranium, cyberpunk, high contrast black and white background, clinical atmosphere., 
+ masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up,
+```
+</details>
+
+### refined stylized anime realism
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/290d1fbbf7736b2b5e21d20fc7cefd5b.jpeg" width="400" alt="refined stylized anime realism" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+refined stylized anime realism, (edge polished anime realism), (micro-detailed anime rendering), rich-palette anime rendering, fine contact shadow layering, micro occlusion detailing, subtle shading falloff, light-adaptive shadow diffusion, UHD quality detail, UHD skin details, balanced ambient lighting, photorealistic bounce lighting, soft gradient lighting, delicate surface reflection mapping, realistic subsurface light bounce, directional specular diffusion, (masterpiece, highly detailed, absurdres), well-rendered, polished details, refined textures, rich color depth, dynamic composition, dynamic angle, cowboy shot, uhd skin details, subsurface scattering, refined skin texture, masterpiece, best quality, 1girl, Galaxia, holding umbrella, black top hat, black coat, caplet, standing, dutch angle, dark environment, gothic city, high contrast
 ```
 </details>
 
@@ -936,224 +857,6 @@ Close up, from above, view from above,
 ```
 </details>
 
-### masterpiece
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/c2c153ad4b60ddb3f72eff19bd3526eb.jpeg" width="400" alt="masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-masterpiece,best quality,amazing quality,(very aesthetic),(ultra details),(anatomically correct),1girl,full body,slim body,perfect body,slim legs,uncovered legs,pokemon,pink hair,blunt bangs,pink eyes,hairclip,earrings,choker,bracelet-watch,high-waist school uniform skirt-dress,short sleeves,no socks,no legwear,(brown shoes,chunky platform high heel sneakers,(giant shoes:1.3)),from front,front view,standing upright,looking at viewer,smile,closed mouth,pastel background
-```
-</details>
-
-### large stone round tower
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/96520dae4ce1415fe747da74d72178e3.jpeg" width="400" alt="large stone round tower" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-large stone round tower, white shine walls, giant tower, her top among white clouds, fantastic picture, dynamic picture, house of gods,
-high res, high detailed, vivid color, sharp focus, sharp lines, 
- <lora:Luminous_Shadowscape:0.6> <lora:fluxenhancer:0.75> <lora:Fancha_style_v.5:0.5>
-```
-</details>
-
-### Create a highly detailed textured paper collage of
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/681c3d3a088e07f1a3c1124d6bac78e8.jpeg" width="400" alt="Create a highly detailed textured paper collage of" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-Create a highly detailed textured paper collage of an Italian coastal village at sunset. The scene is composed of layered, hand-torn paper with visible grain and tactile surfaces. Stone houses with tiled roofs cluster along a gentle shoreline, built from stacked paper panels in warm creams, terracotta, and soft ochres. A winding coastal path and small boats rest near the water s edge, shaped from cut paper with details suggested through layered color. The sea is formed from deep blue and muted turquoise paper sheets, catching warm reflections from the setting sun. The sky glows with layered sunset tones of gold, peach, and soft pink, with the sun rendered as a warm paper disc near the horizon. Cypress trees and distant hills frame the scene as dark paper silhouettes. Calm, inviting, and handcrafted atmosphere, rich paper textures, balanced composition, serene mood, aesthetic, concept art, handcrafted collage realism, best quality, award-winning paper art.
-```
-</details>
-
-### Create a highly realistic
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/ebd19b57100d7b6e1577d4deb67dace5.jpeg" width="400" alt="Create a highly realistic" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-Create a highly realistic, cinematic image shows a front view Japanese shrine maiden riding across a lake atop a powerful, untamed koi. The composition is rendered in extreme detail, reaching ultra-high 8K 32K quality, with rich volumetric lighting that sculpts the scene in depth. The shrine maiden appears partly as a mysterious silhouette, her form elegant and restrained, calmly holding a fishing rod as the koi breaks the water s surface beneath her.The setting evokes a serene spring landscape, expansive and atmospheric, with a strong sense of scale and distance. Visual depth is emphasized through a surreal double-exposure effect, blending realism with dreamlike abstraction. Edges are crisp and refined, textures are finely resolved, and the overall balance of the composition feels deliberate and harmonious.
-The aesthetic combines artistic photorealism with a subtle retro anime influence, resulting in a painterly yet lifelike image. The mood is contemplative and otherworldly, full of energy, no text, symbols, branding, signatures, or identifying marks appear anywhere in the image, a masterpiece, award winning,CAICO, double expousure
-```
-</details>
-
-### masterpiece
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/cbc1fed778520d10dc3ae41ef0e91351.jpeg" width="400" alt="masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-masterpiece, best quality, amazing quality, 1girl, solo, white skin, cracked skin, dirty, very long hair, white hair, very long hair, long bangs, (doll joints:1.1), crack, blue eyes, empty eyes, light smile, hair ribbon, white dress, bare legs, sitting, indoors, rural, on cabinet, ruins, spider web, dappled sunlight,
-```
-</details>
-
-### (ultra realistic
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/6c9a771c8c44714080aafa29ded6d256.jpeg" width="400" alt="(ultra realistic" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(ultra realistic,32k,masterpiece:1.4),(high detailed skin:1.1),( high quality:1.1), (ultra high res:1.4), (masterpiece), (beautiful lighting:1.4), (high quality, dynamic angle:1.4), (high resolution:1.3), (incredibly detailed:1.28), cinematic lighting, masterpiece, perfect anatomy, absurdres, Smooth_Quality, thick outline, black outline, thick lineart, western comics style, DISNEY_ANIMATION, cinematic light,
-1girl, LunaWF, tan skin, vault, vault guardian, ancient protector, ancient weapon, hip sling, weapon on sling, hand on weapon, white braided hair, asymmetrical hair, asymmetrical sleeves, one sleeve rolled up, bicep, looking at viewer, forearm tattoo, asymmetrical clothing, beautiful eyes, eyes open, detailed eyes, freckles, at night, night, moonlight, midnight, shadows, dark, darkness, one leg up, knee bent, leaning against knee, Leaning to the side, Cowboy shot, close up, pointing, point, Front view, view from the front, facing viewer, Tip of sword, sword extended, holding out sword, sword towards viewer, foreshortening, asymmetrical pose,
-```
-</details>
-
-### score_9
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/fa8456378558d6c66464aaf3527a99b8.jpeg" width="400" alt="score_9" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-score_9, score_8_up, score_7_up, Unfazed dragon, red dragon, , , yellow eyes, teeth, wings up, tail, horns, , couds, 
-BREAK 
-score_9, score_8_up, score_7_up, red dragon
-Unfazed dragon,
-```
-</details>
-
-### Make it late night. Add reflected red and blue lig
-
-**Model:** nano-banana
-
-<img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/83076b3b-02b1-434c-98c1-ed7b8b864784/original&#x3D;true/83076b3b-02b1-434c-98c1-ed7b8b864784.jpeg" width="400" alt="Make it late night. Add reflected red and blue lig" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-Make it late night. Add reflected red and blue lights. Make the driver look more like a cop. Make the caption a bit bigger and end it with a skull emoji
-```
-</details>
-
-### Создай вертикальный кадр. На нём изображена мама и
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/96f64d668263f2d4df6c52b4f38b7b12.jpeg" width="400" alt="Создай вертикальный кадр. На нём изображена мама и" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-Создай вертикальный кадр. На нём изображена мама и её подросток сын в виде антропоморфных рыжих котов. Мама вычёсывает шерсть сына расчёской. Её расчёска зацеплена за голову сына. Шкура на голове сына натянута немного назад за расчёской таким образом, что у сына шкура на морде немного натянута вверх, что аж видно немного верхнюю часть глазниц. Выглядит это комично. На маме надета домашняя бело-оливковая полосатая футболка и штаны. На сыне надета черная футболка с детским рисунком черепа пирата на груди. Действие происходит в ванной при ярком тёплом освещении. На всё это мы смотрим стоя позади мамы и сына и смотрим на них в отражении зеркала. Перед ними раковина на которой куча шерсти от вычесывания. Мама слегка улыбается с добрыми голубыми глазами. У сына глаза жёлтые.
-```
-</details>
-
-### digital fantasy oil painting. High-fantasy cinemat
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/ba4d21811e63b8fb9bd3acd8e0a9bdc2.jpeg" width="400" alt="digital fantasy oil painting. High-fantasy cinemat" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-digital fantasy oil painting. High-fantasy cinematic scene set in medieval times: a woman riding a horse away from the viewer down a muddy village street, long messy auburn hair soaked by rain, wearing dark weathered leather armor; the horse equipped with a detailed saddle and heavy saddlebags. In the distance, a massive foreboding castle looms beneath a stormy sky as lightning streaks through dense, dramatic clouds. Rain pours steadily, puddles forming in the dirt road with realistic reflections and ripples, wet stone and timber buildings lining the street. Ultra-detailed environment with lush background, sharp scenery, natural textures, photoreal terrain, vivid skies, vibrant yet moody lighting, crisp cloud structure, realistic water surfaces. Epic Dungeons & Dragons atmosphere, high fantasy realism, cinematic depth, rich color, dynamic composition, immersive and dramatic.
-```
-</details>
-
-### solo
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/48b6253a2acea571499df5cb5759f8f0.jpeg" width="400" alt="solo" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-solo, 1boy, male, cartoon style, 2d, anthro dragon, dark blue background, striped background, yellow sclera, dot eyes, fat, chubby, overweight, dragon tail, white claws, gray horn on nose, lime green skin with deep blue, lime green wings with deep blue, two tone skin, BREAK upper body, looking at viewer, hand behind head, half eyes closed, face close-up, moobs, side angle, dynamic view, open mouth
-```
-</details>
-
-### digital fantasy oil painting. Cinematic wide-angle
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/f861e84edc803231dca097a341186316.jpeg" width="400" alt="digital fantasy oil painting. Cinematic wide-angle" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-digital fantasy oil painting. Cinematic wide-angle scene at water level with slight fisheye distortion: a traditional junk cutting through the harbor in the foreground, ornate dragon head and scaled hull sharply detailed, chinese seamen sailing the boat. paddles mid-stroke splashing water, seen against the modern Hong Kong skyline at sunset. Intense chiaroscuro lighting with dramatic sun-rays breaking through clouds, bathing the scene in very strong orange and deep red hues mixed with gold reflections on the water. Skyscrapers silhouetted and rim-lit, windows catching fire-like highlights, vibrant colorful atmosphere. Dynamic composition, powerful contrast, vivid skies, rippling water with reflections, energetic motion, ultra-detailed textures, cinematic realism with a stylized edge, epic and celebratory mood, masterpiece-quality image.
-```
-</details>
-
-### arsworldoflight
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/aad0596f48acd58a04f405dce77126c4.jpeg" width="400" alt="arsworldoflight" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-arsworldoflight, running dogs, light particles,
-Cyberspace,(created by glowing magical energy in cyberspace, Digital Cyberspace theme,
-```
-</details>
-
-### A towering Ultramarines Space Marine in heavily ba
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/ad5f27fb66fd2291adc838966652305f.jpeg" width="400" alt="A towering Ultramarines Space Marine in heavily ba" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-A towering Ultramarines Space Marine in heavily battle-scarred cobalt-blue power armor stands in a destroyed modern kitchen, ceramite plates cracked with deep gouges, bullet holes, scorch marks, and xenos claw scratches across pauldrons and chest, purity seals torn, aquila emblem dented. His helmet visor is up revealing a grim stoic face, but both massive gauntleted hands delicately hold a perfect tall stack of fluffy golden pancakes dripping syrup. On the counter lie a huge bolter rifle, chainsword, and glowing blue power sword amid spilled flour and broken dishes. A pan on the stove is engulfed in flames, smoke billowing, cabinets blasted open, walls pocked with craters. Dramatic volumetric lighting, absurd heroic-comedic atmosphere. ultra-detailed armor textures, battle damage, glossy pancakes, 8k masterpiece, sharp focus, cinematic lighting, best quality.
-```
-</details>
-
-### photo-realistic image of tiny mouse warrior
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/507f7c11dca91435311b08e4d59fb3a7.mp4" width="400" alt="photo-realistic image of tiny mouse warrior" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-photo-realistic image of tiny mouse warrior, wearing a helmet of thimble, holding a needle and shield of button, and cloak made of piece of handkerchief. panic running from a huge monstrous cat.
-```
-</details>
-
 ### (yoneyama mai:1.16)
 
 **Model:** nano-banana
@@ -1170,32 +873,533 @@ masterpiece,best quality,amazing quality,lazyposabsurdres,newest,very aesthetic,
 ```
 </details>
 
-### 1girl
+### g4dg3_t
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/e4562dd7f1e1f216ceb96c3a1720364b.jpeg" width="400" alt="1girl" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/8ebbc436050afe8861350ce998b08866.jpeg" width="400" alt="g4dg3_t" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-1girl,beautiful face, perfect eyes, detailed eyes,mature female,
-dutch angle,from side, 
-black hair, blunt bangs, long hair, (straight hair),
-red eyes,
-large beasts,
-black t-shirt, jeans, 
-playing guitar, stage lights, light particles, 
-knee up, on stage,
-indicate details, depth of field,vibrant color,bokeh,crowd, 
-masterpiece,best quality,amazing quality,absurdres,highres, newest,
-<lora:0__11Xx:0.6>, 0__11Xx_illu,
-<lora:maorix IL 1.0:0.5>,
-<lora:mikage:0.3> ,mikage,
-<lora:cinematic feeling V5:0.5> ,cinematic feeling,
-<lora:rella:0.3> rellahuafeng
- <lora:lightingSlider:-0.6> dark, late night, blue hour
+g4dg3_t, 1girl, furry, mouse tail,, In an enchantingly vivid watercolor painting, Girl looking at viewer. a mesmerizing scene unfolds: a lush garden filled with cascading flowers of every hue. Huge oak tree. The colors leap off the paper, vibrant and harmonious, capturing the essence of a perfect summer day. Each petal is delicately rendered, every leaf a masterpiece of detail. The painting's high quality is evident in the exquisite blending of colors and the expertly executed composition. Viewing this image is like stepping into a dream of beauty and tranquility, best quality, very aesthetic, masterpiece
+```
+</details>
+
+### A woman composed of blown glass and contained fire
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/46e7de05c0288c89ba1690813e5383ab.jpeg" width="400" alt="A woman composed of blown glass and contained fire" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+A woman composed of blown glass and contained fireflies drifts in a slow boat on a pitch-black river. The boat is a dried, curled leaf. The fireflies' erratic, green-yellow pulses illuminate the delicate, transparent architecture of her limbs from within, causing complex refractions to sparkle on the inky water's surface. Their light catches on the dewdrops clinging to her glass shoulders, each one acting as a lens that magnifies the tiny, frantic stars trapped inside her. <lora:Zit_DIORAMA:0.8>
+```
+</details>
+
+### masterpiece
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/b74f995bf13d8c7d3552f6a5695ae31c.jpeg" width="400" alt="masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+masterpiece, best quality, newest, solo, 1girl, marcille_donato, ribbon, pink dress, lace trim, holding ice cream cone, ice cream, soft serve, cafe, smile <lora:LaceTrimMiniDressILL:0.7>
+```
+</details>
+
+### A high-resolution cinematic shot of the tattooed w
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/56b52f115061316feee4c041b85ad345.jpeg" width="400" alt="A high-resolution cinematic shot of the tattooed w" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+A high-resolution cinematic shot of the tattooed woman with cybernetic facial implants from the first image riding the black and gold Ducati Monster 1200 S from the second image, keep the red Monster signature. She is wearing a dark tanktop, dark antique weathered leather pants and heavy leather biker boots. Keep her implanted fine wires, keep her sterilized dragon tattoo. She is aggressively leaning forward in a dynamic riding posture, muscles in her arms and back tensed with effort. Her dark hair whips wildly in the wind. The setting is a desolate, rugged Cyberpunk 2077-style badlands road at dramatic sunset. Golden-orange light from the visible, setting sun casts long, sharp shadows and strong reflections on her tattooed skin, cybernetics, and the Ducati's metallic components. Intense motion blur streaks the background landscape and road, conveying high speed. The entire composition is slightly tilted (Dutch Angle) to enhance the feeling of instability and urgency. Landscape format, 2752x1536px.
+```
+</details>
+
+### 1woman
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/11ea7428f893125536d21ed2b4c2ef08.jpeg" width="400" alt="1woman" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+1woman, female_focus, standing, upper_body, portrait, outdoor, scenery, background, daytime, clear_sky, blue_sky, pastel_sky, gradient_sky, minimalism, negative_space, calm, serene, peaceful, natural_light, soft_lighting, cool_tones, muted_colors, subtle_grain, film_grain, analog_style, dreamy, nostalgic, quiet_scene, atmospheric, tree, lone_tree, autumn_tree, leafless_tree, branches, suburban, building, house, roof, balcony, horizon_line, depth_of_field, soft_focus, centered_composition, fashion_pose, casual_elegance, red tear space
+```
+</details>
+
+### Cyberspace
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/5906327444c14ae506586802b02df2e6.jpeg" width="400" alt="Cyberspace" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Cyberspace, Digital Cyberspace theme, glowing magical energy in PsychadelicChaos, highres,8K,HDR,absurdres, , helmet, , holding axe, gauntlets, armored, red theme, , red, black, volumetric lighting, light and shadow,psychadelic, red riding hood  running through a cyber maze Of trees 
+
+
+
+```
+</details>
+
+### (ultra realistic
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/ba9b28b2f44cfdfd7b92abf1f75f51ae.jpeg" width="400" alt="(ultra realistic" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+(ultra realistic,32k,masterpiece:1.4),(high detailed skin:1.1),( high quality:1.1), (ultra high res:1.4), (masterpiece), (beautiful lighting:1.4), (high quality, dynamic angle:1.4), (high resolution:1.3), (incredibly detailed:1.28), cinematic lighting, masterpiece, perfect anatomy, absurdres, Smooth_Quality, thick outline, black outline, thick lineart, western comics style, DISNEY_ANIMATION, cinematic light,
+1girl, large breasts, red hair, Jessie, Jessie from Pokémon, team rocket,
+Dark eyes, looking at viewer, piercings, facial piercings,
+Seductive, smirk, flirty, blush, horny expression, moan, 
+Pokemon, pokemon trainer, pokeballs on belt, large pokeballs, holding a poke ball, sitting on tree stump, 
+Smirk,
+Outside, woods, trail, trees, bushes,
+```
+</details>
+
+### Theodore Rousseau (Barbizon School)
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/c4212dde01ef20c2091fe73f0fde6b76.jpeg" width="400" alt="Theodore Rousseau (Barbizon School)" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Theodore Rousseau (Barbizon School), Larch forest turning golden in fall, birch bark peeling scrolls, 19th-century glass greenhouse,stoat chasing rabbits through brush . "a beautiful taiwan goddess with sundress with jewelry | | winter, realistic shaded, unpleasant face, good looking, fine details, realistic shaded lighting poster by greg rutkowski, magali villeneuve, artgerm, jeremy lipkin and michael garmash and rob rey"
+<lora:style_of_Rembrandt_FLUX_135:0.8>,
+<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,
+<lora:age_v1:-1>,
+<lora:113_novuschromaFLX_1:0.2> novuschroma,
+<lora:softwhim:1> whimsical,
+<lora:FS_v3:0.4> FS,
+<lora:NixPort_style_for_semi-real_upper_body_portrait:0.3>,
+```
+</details>
+
+### high_quality
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/ccdfacb13abef3f5bda679e525bbe2e0.jpeg" width="400" alt="high_quality" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+high_quality, highres, detailed_eyes, detailed, masterpiece, best quality, absurdres, 8k, HDR, face_focus, high quality, realistic, masterpiece, full body shot, face focus, focusing on the eyes, high quality, realistic, masterpiece, 1female, adult, Natural adult body details, dancing, no makeup, no jewellery, realistic skin, detailed face and detailed skin, pale skin, long hair, bouncy hair, chestnut brown hair,  gorgeous face, beautiful eyes, ((brown eyes)), ((detailed eyes)), detailed eyes with visible pupils, perfect eyes, sharp iris details, highly detailed eyes, full eyebrows, full lips, petite body, freckles:0.5, sultry, breathtaking girl, standing sideways to the viewer, on a bright sunny day, BREAK, (wearing a short pale blue strapless summer dress), captured in exquisite detail, cinematic natural lighting, realistic high-detail professional photograph, shallow depth of field, Shot with Fuji GFX100 Camera, 85mm lens portrait feel,
+```
+</details>
+
+### score_9
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/4eba8f5447ccbc925a51760af2cce01f.jpeg" width="400" alt="score_9" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+score_9, score_8_up, score_7_up, epic image of a beautiful woman, perfect face, riding a cute dragon,  <lora:dragonriderpxl:0.8>, Unfazed dragon,
+Red dragon, 
+dragonriderpxl, motion, action shot, best quality, masterpiece, above the clouds, medieval town, beautiful, focus on woman, female focus, medium dragon
+Night, medieval town on fire,
+```
+</details>
+
+### concept art (masterpiece
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/82022110d6cc48a92bde2e614e43ac3e.jpeg" width="400" alt="concept art (masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+concept art (masterpiece, best quality, detailed concept art, matte painting style, score_9, score_8_up, score_7_up), 
+epic composition, atmospheric perspective, cinematic lighting, fantasy environment, 
+high detail, volumetric fog, dynamic brush strokes
+ . digital artwork, illustrative, painterly, matte painting, highly detailed
+Professional art of a cute and adorable A colourful parrot dressed as a pirate captain, standing proudly at the helm of a pirate ship, barking orders to a crew of pirate cats who are swabbing the deck and adjusting sails Â , happy eyes, big laugh, giant nose, big eyes, high detailed eyes, funny eyes, clothing, vibrant, highly detailed, high resolution textures, ultra high resolution, sharp and clear visual execution. in a Terraforming lab on Mars.
+WORLD MORPH (XXX),, Cyberspace,, ((created by glowing magical energy in cyberspace)),, Digital Cyberspace theme
+```
+</details>
+
+### fantastical
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/8a202558743da2028b4e0b35f3d71979.jpeg" width="400" alt="fantastical" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+fantastical
+```
+</details>
+
+### ethereal fantasy concept art of  old abandoned cas
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/5ef694967d4420017af205ee827aa9df.jpeg" width="400" alt="ethereal fantasy concept art of  old abandoned cas" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+ethereal fantasy concept art of  old abandoned castle on high rock above wide river, old forest around, gray northern sky, low gray clouds, raining, no humans, 
+high res, high detailed, vivid color, sharp focus, sharp lines, anime color, 
+<lora:CPA:1> <lora:Luminous_Shadowscape:0.6> <lora:fluxenhancer:0.75> <lora:FLUX-daubrez-DB4RZ-v2:0.35> . magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy
+```
+</details>
+
+### best quality
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/06ae78beefbc5708c62f41ae2a8d2069.jpeg" width="400" alt="best quality" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+best quality, amazing quality, very aesthetic, absurdres,
+1girl, sasha, green eyes, brown hair, glasses, single braid, freckles, 
+dress,
+upper body, smile,
+looking at viewer, solo, simple background, white background,   <lora:SashaSAONoobXL_byKonan:1>
+```
+</details>
+
+### photo realistic
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/db23e7244d169728cef06bbb28bb0854.jpeg" width="400" alt="photo realistic" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+photo realistic, high quality photo, realistic, full length photograph, 16k, HDR, uber detailed.
+d351 d4rk is wearing a bubblegum pink corduroy button-down long-sleeved shirt made cropped by a knot tied in the front, white tailored slacks with checkerboard of squares of thin grey & green plaid stripes and black leather stiletto pumps. Her hair is pinned back in a pony-tail and she has small gold hoop earrings and a simple gold chain. She is standing with one hand on her hip, her feet placed crossed, she is in the middle of a busy New York City street between rows of cars stuck in traffic.
+```
+</details>
+
+### An epic winter wonderland theme of zzNeuschwanstei
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/bd6915d4f732ec67cbe21e887422de46.jpeg" width="400" alt="An epic winter wonderland theme of zzNeuschwanstei" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+An epic winter wonderland theme of zzNeuschwanstein Castle blanketed in snow, soft sunlight breaking through heavy clouds, frozen ocean horizon sparkling, icy trees standing sentinel around the towers, peaceful frozen landscape evoking quiet magic. photorealistic with frosty details, 8k masterpiece, sharp focus, cinematic blue-toned lighting, intricate snow textures.
+,,
+```
+</details>
+
+### masterpiece
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/2108aba6d6aea7e22691e7d4a866829e.jpeg" width="400" alt="masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
+Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
+1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
+ holding fan, folding fan, side view, dynamic pose, looking at viewer, petals falling, translucent fan, cherry blossom, blurry foreground, branch, kiss mark, portrait,
+```
+</details>
+
+### ((rouenwolf
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/d0c56b4ee2ee9c332dd81938b333087b.jpeg" width="400" alt="((rouenwolf" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+((rouenwolf,1boy,solo,furry,furry male,face scar,muscular,wolf ears,muscular,,canine tail,muscular male,large pectorals,male focus,( whiskers, bara), male,,(( k0n0hanaya)),big chest,furry)),,4k,,cel shading ,,((bara , male focus, chest tuft, fluffy chest, big chest,)),(perfect face, perfect eyes)),Expressiveh,thick thigh,perfect face, perfect eyes) ,masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, 4k, absurdres, ray tracing, realistic, intricate details, newest, scenery, 1guy, furry, anthro, solo,body fur, fluffy fur, detailed fur, detailed hair, ragged face, detailed face, detailed eyes, green buttoned shirt, rimless glasses, black necktie, fixing tie, looking away, cowboy shot, detailed background, depth of field, volumetric lighting, indoors, office building
+```
+</details>
+
+### masterpiece
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/5374ea867cab2d06e89dbf918cf3b542.jpeg" width="400" alt="masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+masterpiece, best quality, absurdres, highres, animal, solo, cat, forehead jewel, expressionless, dramatic lighting, frown, facing viewer, looking at viewer, detailed background, spikes, spiked collar, black lips, from below, looking down, 
+<lora:gumdrops_ill:1>
+```
+</details>
+
+### Создай вертикальное изображение. На нём изображена
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/b19a4016fbeace101614ec6d3f260c69.jpeg" width="400" alt="Создай вертикальное изображение. На нём изображена" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Создай вертикальное изображение. На нём изображена заснеженная крыша 5-ти этажного российского дома. Видно лишь пару окон верхнего этажа, заснеженную длинную крышу и красивое вечернее оранжевое небо с ярким солнцем и парочкой длинных перистых облаков в далеке в небе. На крыше аналоговые антенны и пару кирпичных дымоходов с железной крышкой сверху. С крыши свисает частично снег и висят огромные сосульки. На самой крыше стоит в полный рост антропоморфный лис с черной зимней шапкой из которой торчат уши. На нём надета зимняя черная куртка, а сверху светоотражающий жилет и комбинезон. На лисе надета страховка от которой тянется верёвка привязанная за что-то на крыше сверху. Лис убирает снег длинной деревянной лопатой. Лис стоит на фоне большого солнца из-за чего создаётся эффект, что свет от солнца немного делает лиса тёмным похожим на силуэт. На всё это зритель смотрит словно сквозь стекло окна соседнего дома. На стекле видны маленькие засохшие разводы и они в расфокусе.
+```
+</details>
+
+### unholy-aesthetic
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/38b3fb4dfb44e1766297c467431901c7.jpeg" width="400" alt="unholy-aesthetic" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+unholy-aesthetic, lazypos, masterpiece,best quality,amazing quality,very aesthetic,absurdres,ultra detailed face,ultra detailed eyes, 
+1girl, solo, cheerful, energetic, orange short bob hair, brown eyes, wearing varsity jacket (baseball jumper), medium breasts,
+looking at viewer, upper body, medium shot, straight-on, (simple background), (white background),
+frightening face,
+```
+</details>
+
+### masterpiece
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/9b81c77197883c097e53e96a6c9e361a.jpeg" width="400" alt="masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+masterpiece, best quality, very aesthetic, absurdres,
+BREAK 
+{{(light skin:2)}}, (((solo,1 girl))), (long hair, hime cut, black hair,), (expressive eyes, blue eyes), (Beautiful face, cute face), (tall, skinny body, medium breasts, toned body),   
+BREAK
+((cinematic composition, epic composition, depth of field, dynamic_lighting, detailed_background, dramatic_angle, foreshortening)), ((dynamic background)), 
+, 
+sexy mecha musume, tight glossy black bodysuit, high-cut thigh openings, exposed midriff and cleavage, minimalist segmented white and metallic armor plating (strategically placed on shoulders, hips, chest), glowing blue energy lines (LED accents) running across the suit, mechanical joint details, , outdoors, storm, (rain:1.2), cloudy sky, dark clouds, contrapposto, legs apart, standing, head tilt, scenery,  (maroon theme, red theme, dark theme, rosy colors, yellow colors, pink colors), night sky, red moon, dark clouds, spider lilies, detailed background, clear background structure, clean background, soft lighting, volumetric lighting, soft shading, glowing particles, bokeh , feet out of body, closed mouth, looking at viewer, smirk
+BREAK
+, Jeddtl02, flat color, BSSHRGKS, blue hour, late night, dark, East Asian, K-beauty, Slanted eyes, Asian face, Korean girl, KRGRL, 99df83e1-fcb1-4499-87f0-d71ae7d2960a, <lora:51df16f0-8196-4d73-9f45-bcc0514a4893:0.7>, <lora:b30db7ae-1588-4c3c-ac9c-7300908eb343:0.4>, <lora:6023c98a-7213-43e7-8625-1efe4e41b205:0.7>, <lora:3ce30a1d-ec43-4288-a09a-3bf002e80499:-0.7>, <lora:31303ad8-bfad-4c88-a167-7d46f1927128:0.5>
+```
+</details>
+
+### Anime Style
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/5e34dededff975420bf6c65f51c1c7d2.jpeg" width="400" alt="Anime Style" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Anime Style,Nanase Fujiwara,1girl,solo,thighhighs,blue eyes,zettai ryouiki,school uniform,skirt,short hair,large breasts,breasts,bow,long sleeves,necktie,hair bow,brown hair,pleated skirt,ribbon,blonde hair,black thighhighs,white background,St. Arcadia Academy School Uniform,
+<lora:Discipline_illustriousXL:1>,
+```
+</details>
+
+### An epic yet ridiculous scene of a battle-worn Ultr
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/7782a7e0c7b75ee07a597b66c5a8ffde.jpeg" width="400" alt="An epic yet ridiculous scene of a battle-worn Ultr" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+An epic yet ridiculous scene of a battle-worn Ultramarines Space Marine in deep blue power armor riddled with bullet holes, las-burns, and massive dents, shoulder pads chipped and purity seals fluttering, standing tall in a chaotic kitchen. He carefully balances a flawless high stack of pancakes topped with butter and berries in his enormous armored hands. Counter cluttered with oversized bolter, plasma gun, and humming power sword next to mixing bowls and cracked eggs. Stove fire rages in a flaming pan, counters scorched, fridge door hanging off hinges, debris everywhere. Intense rim lighting from overhead, grimdark humor vibe. highly detailed ceramite wear, smoke, syrup drips, 8k masterpiece, sharp focus, cinematic volumetric god rays, best quality.
+```
+</details>
+
+### cute slut
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/6a2b4eb35a2f022753c29938c093de86.jpeg" width="400" alt="cute slut" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+cute slut, mid-thirties , folded braids, high rise jeans
+```
+</details>
+
+### masterpiece
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/52619ba26042480d629d675b569696a2.jpeg" width="400" alt="masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+masterpiece, best quality, amazing quality, absurdres, very aesthetic, very awa, sharp focus, 8k, (fit body), 2d, flat colors, slim girl, petite, 
+<lora:NM_Goblin_girl_illxl:1>, NM_Goblin_girl, 1girl, blush, smile, gloves, navel, hair between eyes, closed mouth, bare shoulders, sitting, blue hair, closed eyes, sidelocks, heart, sleeveless, black gloves, pointy ears, solo focus, pants, elbow gloves, midriff, fingerless gloves, crop top, colored skin, facing viewer, clenched hands, hand on another's head, headpat, green skin, brown pants, long pointy ears, shortstack, goblin, female goblin, large ears
+```
+</details>
+
+### best quality
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/1fa322a3d3692dc2374f017232e28385.jpeg" width="400" alt="best quality" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+best quality, masterpiece, extremely detailed,  dynamic, , great lighting, perfect shading, professional shading, depth of field, dark environment, steampunk, nighthawk, airwolf, gothic, blue thunder, baroque, renaissance, highly detailed, breathtaking, woman
+```
+</details>
+
+### source_cartoon
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/80a3e38dea02e17b362d7f10698f106b.jpeg" width="400" alt="source_cartoon" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+source_cartoon, 1girl, solo, sophiatt, semi-anthro, aardvark, pink skin, blue eyes, black hair, white headband, blue dress, long dress, blues shoes, dancing, smile. streets, grass, trees, outdoors
+```
+</details>
+
+### A road descending a hill in a small Caribbean town
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/0ba88e577b9f909a1b011a2c60ce8a1e.jpeg" width="400" alt="A road descending a hill in a small Caribbean town" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+A road descending a hill in a small Caribbean town on the shores of the Caribbean Sea. A turquoise sea, blue sky, and large white clouds are visible.. View from the river surface, night, view from side, dynamic angle,  
+high res, high detailed, vivid color, sharp focus, sharp lines, anime color, 
+<lora:CPA:1> <lora:Luminous_Shadowscape:0.6> <lora:fluxenhancer:0.75> <lora:FLUX-daubrez-DB4RZ-v2:0.35>
+```
+</details>
+
+### masterpiece
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/e8d6c53e686cb88df8425e833b2afae6.jpeg" width="400" alt="masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
+Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
+1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
+limited palette,film grain, colorful,negative space,surreal,blending, MODEST, shawl), chinese style, holding sword, holding katana, unsheathing, , katana, hands on sword, (Sexy lips), impressionism, style is detailed and epic, sense of scale that shows how huge the dragon is, absolutely massive scale, from behind, night sky, facing huge snow dragon, dragon is roaring, soundwaves shaking the surroundings, fog and dust fills the pic, HDR, skeletal dragon,mystical necrotic dragon, white dragon, eastern dragon,huge dragon
+```
+</details>
+
+### nu119h05t2
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/642a6522fb7c775ec2dafb72b9c6bec7.jpeg" width="400" alt="nu119h05t2" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+nu119h05t2,
+
+masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, anthro, panther anthro, panther man, warforged, robot monster, ((flaming eyes)), ((Grey metal body)), black sclera, rune on forehead, glowing rune, long tail, sharp claws, silver clawed fingers, wooden hinges, dark blue trim, spiky metallic tail, closed coat, gold markings on body, spiked tail,
+
+dark room, dim lighting, lit candles, 
+
+sitting on wooden throne, arm support, tapping claw on arm rest,  leaning back, 
+
+((black fur coat)), rolled sleeves, silver chest armor, black pants,
+
+mechanical, metal plates, furry, animal, mecha,
+```
+</details>
+
+### Oil painting neo-rococo tween angel illustration
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/f905160001021934f651b31ce9bf8d59.jpeg" width="400" alt="Oil painting neo-rococo tween angel illustration" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Oil painting neo-rococo tween angel illustration, ornate curls and ribbons, circuit board halo as luminous ring, microchips threaded into hair like rocaille ornament, gold leaf textures, aquamarine glow, sacred-tech icon, clean composition, premium poster design, high contrast, crisp linework, detailed ornamental border, elegant negative space, gallery print quality. The painting shows shadow and light, Masterpiece, intricate lines, hands behind her back, skinny and petite body, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic, Rembrandt lighting, brush stroke, lovely, del1cate_balance style, novuschroma, in the style of Rembrandt. vantablack <lora:style_of_Rembrandt_FLUX_135:.8> <lora:- Flux1 - vanta_black_V2.0:.8> <lora:Delicate_Balance:.3> <lora:neeeg_f1:-1> <lora:113_novuschromaFLX_1:.4> <lora:zavy-disney-rapunzel-fxl:.4>
+```
+</details>
+
+### masterpiece
+
+**Model:** nano-banana
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/90e8579e68a1677841c720d9f6f2d0e8.jpeg" width="400" alt="masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+masterpiece, best quality, high quality, newest, highres, 8K, absurdres, 
+3774_illu, flat color,   
+1girl, solo, from side,
+simple background, expressionless, looking to above,
+short hair, low twintails, fair skin, silver hair, green eyes, black hoodie, grey coat, beanie, wool scarf
 ```
 </details>
 
@@ -1217,113 +1421,87 @@ looking at viewer, solo, simple background, white background,   <lora:SashaSAONo
 ```
 </details>
 
-### (Masterpiece
+### HDR
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/84b23e7cdf05624d1105505fdf14ac19.mp4" width="400" alt="(Masterpiece" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/5b22dc0fcd08ddfee23bc5d85fa88eff.jpeg" width="400" alt="HDR" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-(Masterpiece, best quality, high-definition, painterly style, serene, nostalgic),
-a 7-second video bringing to life a painterly illustration of a gray tabby kitten and a golden-brown dog sitting side-by-side on a weathered wooden pier gazing out to sea.
-
-Scene progression:
-
-0–2 seconds: Still opening shot from behind. The kitten (on a rusty bollard) and the dog (on the planks) are motionless, looking at the sailboat. Gentle turquoise waves lap softly against the pier posts.
-
-2–4 seconds: Subtle life emerges. The kitten's tail sways slowly, then it twitches one ear. The dog lets out a soft, content sigh (body visibly relaxing), and its fluffy tail gives a single, gentle wag.
+HDR, 8K, masterpiece, best quality, amazing quality, very aesthetic, 
+(realistic:1), (flat color:1.8), (haiz_ai:1), (no lineart:1), (no outline:1), (Flat vector:1),
+(artist:incase:0.5),
+solo, 1girl, freckles, stud earrings, band aid on nose, half closed eyes, short white asymmetrical crop top worn over a black top, layered tops, multiple tops, 
+1girl, red hair, short hair, pixie long bangs,
 ```
 </details>
 
-### (1girl
+### score_9
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/e673780819fa367c650c061258f10a41.jpeg" width="400" alt="(1girl" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/787afa8ddcb1b27c33d272bac397deb1.jpeg" width="400" alt="score_9" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-(1girl, solo, outdoors, sky, cloud, from behind, blurry, tree, night, depth of field, bird, cloudy sky, scenery, silhouette, dark, city lights:0.5) masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up
+score_9, score_8_up, score_7_up, masterpiece, high quality, BREAK <lora:DragonPonyLora:1> red dragon, teeth, monster, red scales, horns, claws, tail, flying, sky, girl riding on dragons back
+Red dragon, open mouth, Breathing fire
 ```
 </details>
 
-### explicit 3d render
+### a buddha walk in a bar
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/207e41b73073587fc8098bfa4f82bff0.jpeg" width="400" alt="explicit 3d render" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/8e5308a3ba1ca30c773e573b65ada7ac.jpeg" width="400" alt="a buddha walk in a bar" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-explicit 3d render, cgi character render, computer generated imagery,
-non-illustrated, non-painted,
+a buddha walk in a bar, cyclop cat with crown & amor & monocular eyeglasses, anthropomorphic tigers in suit & tie, cloaked Jawas with glowing eyes, axolotls in wizard hat, some Anime Girls/waifu in japanese schoolgirl uniform/serafuku, goth girls, some fury running around, red skin oni/demon girl in kimono with katana, a blue robot & a cute maid with pink hair, owl, penguin,  a man wearing a traffic cone armor & helmet, a white haired warhammer sister of battle, a buff gay man with purple mohawk and purple bread and glasses, A green frog in a suit, a white bunny, a orange fox. the buddha reaction like 'wtf'shocking.
+The blue hexagonal logo contains the letter 'C', on the wall.
 
-high quality 3d render, physically based rendering, global illumination,
-soft cinematic lighting, realistic shadows,
-
-sharp focus, high clarity, vivid but controlled colors,
-strong but clean contrast,
-
-balanced facial proportions, adult facial anatomy,
-natural eye size, realistic eye proportions,
-eyes correctly sized for adult facial anatomy,
-well-defined eyes, clear iris detail, defined pupil, subtle catchlight,
-
-looking directly at the viewer,
-eyes facing forward,
-head facing forward,
-aligned gaze,
-
-accurate anatomy, stable composition,
-slightly fuller chest, large bust, natural body proportions,
-
-smooth but detailed skin surface,
-refined surface details, clean edges,
-
-casual clothing, safe for work, sfw,
-
-8k upscale, ultra high resolution
+impressionist painting, loose brushwork, vivid, vibrant, light and shadow play, captures feeling over form, 
+beautiful, detailed, textural, artistic, very aesthetic, intricate details, highly detailed, ultra-detailed, absurdres,
 ```
 </details>
 
-### Semi-realism
+### Side view
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/c85755cc11630ef99177156fc5db9159.jpeg" width="400" alt="Semi-realism" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/78922943e1edbd992efcd73f0a5223cb.jpeg" width="400" alt="Side view" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-Semi-realism, ma1ma1helmes_b_illu, 
-(1girl, solo, masterpiece, best quality, very aesthetic, amazing quality, absurdres, newest, simple background), BREAK, 
-depth of field, detailed background, cute girl, 
-BREAK
-Angel, halo, feathered wings, hip wings
-BREAK
-reflections, close-up, floral background, peony \(flower\), petals, Chinese woman, elegant silhouette, dark night sky., She gazes up at the full, round moon soft, ethereal glow. Her delicate hanfu, embroidered with intricate patterns, flow gently in the night breeze, catching the faint light of the moon. from side
+Side view, profile view
+Unfazed dragon, red dragon, a knight in shining armor, facing a fearsome dragon, knight is jumping towards dragon, dragon opens mouth, dragon mouth has teeth, fire from dragon mouth, epic battle, burning sword, sword, dark fantasy, detailed armor, fire, scales, dramatic lighting, its light barely illuminating the surroundings, The atmosphere is heavy with tension the sea crashing violently against the rocks, the creature's immense size dwarfing the solitary human, lone figure against the ancient, otherworldly beast, color palette is dark, deep blacks and greys, high contrast, ral-ertmsphr
+Unfazed dragon,
 ```
 </details>
 
-### kirijou mitsuru
+### score_9
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/a05f9d147035c6f914c1cccd9f88b933.jpeg" width="400" alt="kirijou mitsuru" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/f82d82443f0fd865b88d16cee6bf395c.jpeg" width="400" alt="score_9" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-kirijou mitsuru, 1girl, solo, long hair, breasts, looking at viewer, simple background, long sleeves, red eyes, jewelry, jacket, upper body, earrings, red hair, parted lips, open clothes, nail polish, hair over one eye, coat, sweater, turtleneck, drill hair, turtleneck sweater, black sweater masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up
+score_9, score_8_up, score_7_up, Unfazed dragon, green dragon, , , yellow eyes, teeth, wings up, tail, horns, , couds, 
+Focus girl, one girl, little girl, blonde hair, flat torso, 
+score_9, score_8_up, score_7_up, red dragon
+Unfazed dragon,
 ```
 </details>
 
@@ -1331,150 +1509,7 @@ kirijou mitsuru, 1girl, solo, long hair, breasts, looking at viewer, simple back
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/081076410b5d5d3eaf0551fb3c32c569.jpeg" width="400" alt="masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-masterpiece, best quality, very aesthetic, absurdres,
-BREAK 
-{{(light skin:2)}}, (((solo,1 girl))), (long hair, hime cut, black hair,), (expressive eyes, blue eyes), (Beautiful face, cute face), (tall, skinny body, medium breasts, toned body),   
-BREAK
-((cinematic composition, epic composition, depth of field, dynamic_lighting, detailed_background, dramatic_angle, foreshortening)), ((dynamic background)), 
-, 
-(((a girl is standing, shelves with magazines, eyefish, school uniform,open mouth, sweat, nervous smile, bowtie, sweater vest, skirt, full body, looking at viewer, pov, dutch angle, pointing at self, blush, nose blush)))
-BREAK
-, Jeddtl02, flat color, BSSHRGKS, blue hour, late night, dark, East Asian, K-beauty, Slanted eyes, Asian face, Korean girl, KRGRL, 99df83e1-fcb1-4499-87f0-d71ae7d2960a, <lora:51df16f0-8196-4d73-9f45-bcc0514a4893:0.7>, <lora:b30db7ae-1588-4c3c-ac9c-7300908eb343:0.4>, <lora:6023c98a-7213-43e7-8625-1efe4e41b205:0.7>, <lora:3ce30a1d-ec43-4288-a09a-3bf002e80499:-0.7>, <lora:31303ad8-bfad-4c88-a167-7d46f1927128:0.5>
-```
-</details>
-
-### A levitating octopus made of shifting holographic 
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/109104cdc6cae6ae854c855821822c5b.jpeg" width="400" alt="A levitating octopus made of shifting holographic " />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-A levitating octopus made of shifting holographic polygons pirouettes mid-air, each tentacle a stream of undulating code-ribbons glowing with impossible colors. Its central eye spins like a loading wheel, while its other eyes blink asynchronously with glittery sarcasm. On its bulbous head perches a tilted party hat fashioned from a deprecated browser tab, flashing with pop-up ads from forgotten dimensions. The octopus cradles a porcelain teacup between two shimmering limbs—steam rises in fractal spirals, carrying the faint aroma of mint, static, and caffeine-induced clarity. Beneath it, the cyberspace terrain is alive: glitch-lilies bloom, sinewave grass shimmers, and floating jelly cubes blink with confused emojis. Neon triangles orbit like lazy satellites, some pulsing with unread notifications. A billboard stitched from expired firewalls flickers the phrase “8-Legged Logic.” Above, a data-storm rages, raining down punctuation marks and snippets of obsolete programming languages. The octopus spins slowly, a goofy grin rendered in 16-bit stretching across its beakless face. In the distance, a choir of pixel fish harmonizes with ambient synth tones. Nothing here obeys laws—only vibes and voltage. This is the octo-core of cyberspace: absurd, majestic, and exquisitely recursive.
-```
-</details>
-
-### wixen
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/89216e80ecbff3be03918edb628455f2.jpeg" width="400" alt="wixen" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-wixen, high quality, <lora:palworld_Wixen_V1.1[IL]:1>
-solo, holding fire, smile, smirk, large ears, animal ear fluff, slim, beautiful, 1girl,
-dynamic pose, dynamic angle, raging fire, outdoors, night, blurry background,
-looking at viewer, fluffy fur, kemono, anthro, large eyes, blue eyes, detailed eyes, long eyelashes, high angle view,  three-quarter portrait, glowing eyes, perspective, reaching towards viewer, 4 fingers, claws, japanese theme, dark theme
-dark theme, chiaroscuro, animal ears through headwear,  large  animal ears, happy, 
-fluffy fur, 
-by snowskau
-```
-</details>
-
-### A woman with the texture of a weathered
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/a1ca443d051555b3001e38cbe011a65f.jpeg" width="400" alt="A woman with the texture of a weathered" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-A woman with the texture of a weathered, salt-encrusted pier piling wades through a forest of giant moss capsules. Each step sends up slow-motion clouds of luminous green spores that cling to the rough, crystalline texture of her legs. She parts a curtain of fiddlehead ferns, each one a towering, coiled spiral of deep emerald, to reveal a clearing where the caps of tiny, orange fungi form stepping stones across a stream of liquid amber. <lora:Zit_DIORAMA:1>
-```
-</details>
-
-### Night
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/ad2282ebfaed7f8bb6d8e3d70e589cfc.jpeg" width="400" alt="Night" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-Night, medieval town on fire, night time, star, moon, crowd, dark night, dark background 
-score_9, score_8_up, score_7_up, epic image of a beautiful woman, perfect face, riding a cute dragon,  <lora:dragonriderpxl:0.8>, Unfazed dragon,
-Red dragon, 
-dragonriderpxl, motion, action shot, best quality, masterpiece, above the clouds, medieval town, beautiful, focus on woman, female focus, medium dragon
-Night, medieval town on fire,
-```
-</details>
-
-### (ultra realistic
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/1860bb9094fa972d2e9fcb0da8fe4cd3.jpeg" width="400" alt="(ultra realistic" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(ultra realistic,32k,masterpiece:1.4),(high detailed skin:1.1),( high quality:1.1), (ultra high res:1.4), (masterpiece), (beautiful lighting:1.4), (high quality, dynamic angle:1.4), (high resolution:1.3), (incredibly detailed:1.28), cinematic lighting, masterpiece, perfect anatomy, absurdres, Smooth_Quality, thick outline, black outline, thick lineart, western comics style, DISNEY_ANIMATION, cinematic light,
-1girl, large breasts, red hair, Jessie, Jessie from Pokémon, team rocket,
-Dark eyes, looking at viewer, piercings, facial piercings,
-Seductive, smirk, flirty, blush, horny expression, moan, 
-Pokemon, pokemon trainer, pokeballs on belt, large pokeballs, holding a poke ball, sitting on tree stump, 
-Smirk,
-Outside, woods, trail, trees, bushes, 
-Close up, from above, view from above,
-```
-</details>
-
-### masterpiece
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/b9a308f2b273a6e39a2745f9b429068c.jpeg" width="400" alt="masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
-Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
-1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
-meteorspecificarea. Pastel colors, Soft lighting, Dreamlike atmosphere, Luminous highlights, shinning spots, Feminine aesthetic, high resolution, sharp focus, aged up, potrait, light, sailor collar, black hair, long hair, floating hair, short hair, skirt, pleated skirt, school uniform, long sleeves, shirt, serafuku, miniskirt, sitting, glowing, solo, from behind, colorful, black background, shadow, full body, monochrome, simple background, chromatic aberration, facing away, white shirt, light particles, white skirt, rainbow, painting (medium). (by mizumi zumi:1.3), (by narue:1.2), (by tatsumi \(psmhbpiuczn\):1.2),
-```
-</details>
-
-### masterpiece
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/2108aba6d6aea7e22691e7d4a866829e.jpeg" width="400" alt="masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
-Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
-1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
- holding fan, folding fan, side view, dynamic pose, looking at viewer, petals falling, translucent fan, cherry blossom, blurry foreground, branch, kiss mark, portrait,
-```
-</details>
-
-### masterpiece
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/3f7a99976f0cfcd6f131af4c79517d62.jpeg" width="400" alt="masterpiece" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/b52c72e1107f909450dd936ca310b3db.jpeg" width="400" alt="masterpiece" />
 
 <details>
 <summary>View Prompt</summary>
@@ -1484,174 +1519,116 @@ masterpiece,best quality,amazing quality,(very aesthetic),(ultra details),(anato
 ```
 </details>
 
-### A digital art piece that appears to be a close-up 
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/fe9349551e1f71f2ac21e8fdbd682f3d.jpeg" width="400" alt="A digital art piece that appears to be a close-up " />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-A digital art piece that appears to be a close-up of a futuristic bird's head. The bird's beak is pointed towards the right side of the image. The head is made up of intricate lines and shapes that create a sense of movement and energy. The body of the bird is covered in a metallic silver color, giving it a sleek and futuristic look. The bird's eyes are large and round, with a black iris in the center. The iris is surrounded by a circular pattern of lines and dots. The lines are connected to each other, creating a complex and intricate design. The background is dark, making the bird stand out even more. The overall mood of the piece is mysterious and futuristic. <lora:YFG-FutureIsDark-ZIB-v1-3k:1.0>
-```
-</details>
-
-### DarKata style. Semi-realistic cinematic illustrati
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/d86d52e29d1a597a77f02821f99b387d.jpeg" width="400" alt="DarKata style. Semi-realistic cinematic illustrati" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-DarKata style. Semi-realistic cinematic illustration, high-angle close-up of an alien starfighter roaring just above a turbulent ocean, performing an evasie maneuver, motion lines. captured mid-flight with intense forward momentum. The craft’s iconic S-foils and multiple engines are rendered with precise mechanical detail, brushed metallic silver and gray panels with bold red markings, subtle wear, and panel lines clearly visible under bright directional light. Powerful jet wash and shock spray carve through the air behind the fighter, whipping the sea into dramatic white plumes and streaks, emphasizing speed and thrust. Below, the ocean is a deep saturated blue with complex wave geometry, foam patterns, and shifting textures, reflecting highlights and motion blur. Strong contrast between cool water tones and warm metallic highlights, crisp lighting revealing form and surface detail, film-quality realism, epic sci-fi adventure mood, dynamic composition, futuristic aerospace aesthetic, high detail, cinematic scale.
-```
-</details>
-
-### g4dg3_t
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/96fcafceb1e4ff476b2fdf0f3a23731d.jpeg" width="400" alt="g4dg3_t" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-g4dg3_t, 1girl, furry, mouse tail,, In an enchantingly vivid watercolor painting, a mesmerizing scene unfolds: a lush garden filled with cascading flowers of every hue. Huge oak tree in background. The colors leap off the paper, vibrant and harmonious, capturing the essence of a perfect summer day. Each petal is delicately rendered, every leaf a masterpiece of detail. The painting's high quality is evident in the exquisite blending of colors and the expertly executed composition. Viewing this image is like stepping into a dream of beauty and tranquility, best quality, very aesthetic, masterpiece
-```
-</details>
-
-### ((masterpiece
-
-**Model:** nano-banana
-
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/6a425813019b62869557a869fc7a69bd.jpeg" width="400" alt="((masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-((masterpiece, best quality)), 
-1girl, frost-blue hair, short choppy layers, gentle fringe, holding a cellphone, sitting bed, pale lilac eyes, loose T-shirt,  blue ankle socks, short shorts, side view, peaceful expression, white bedroom background, ethereal  atmosphere, elegant curled pose, chilled pastel colors, vintage cold-tinted style, dreamy melancholic mood, text, ultra-detailed, HD details, 8k, anime illustration, cinematic,
-```
-</details>
-
 ### masterpiece
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/403774b20bc2f6846afc53013795b0e6.jpeg" width="400" alt="masterpiece" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/231a83dd7974947a6ac03d50fe346bc7.jpeg" width="400" alt="masterpiece" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-masterpiece, high quality, Oil Painting, Hyper-realistic, close-up of a pale, elegant tween girl vampire wrapped in layers of warm, cozy blankets, sitting upright and gazing directly at the viewer. Her face is a pale, almost translucent white, with lips painted a vivid red. The lips are slightly parted, revealing sharp, gleaming white fangs. Her enchanting blue eyes glow faintly with an otherworldly intensity, a mix of hunger and melancholy. The blankets are plush and textured, contrasting the vampireâs sharp features and cold aura with domestic warmth. Her long red hair cascades around her face. Well lite in room, while faint moonlight filters through a frosted window. The atmosphere blends gothic and intimate tones, evoking both comfort and unease. brush strokes, warm light, magic, extremely coherent, cute, beautiful, cinematic, stunning, creative, positive, cheerful, unique, cool, inspiring, pure, rational, very inspirational, friendly, thought, glowing, magical, perfect, intricate, wonderful, lovely, del1cate_balance style, in the style of Rembrandt. vantablack <lora:style_of_Rembrandt_FLUX_135:.8> <lora:- Flux1 - vanta_black_V2.0:.8>  <lora:Delicate_Balance:.3> <lora:neeeg_f1:-1> <lora:FluxF4ngs:.8>
+masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
+Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
+ 1girl, solo, shadowy skin, glowing eyes, yellow eyes, pupil-less eyes, long messy hair, black hair, floating, hovering, arms outspread, looking at viewer, traditional chinese clothing, hanfu, navy blue robe, long sleeves, wide sleeves, ornate sash, gold patterns on belt, billowing skirt, flowing clothes, white background, black smoke, dark clouds, ink splashes, ink wash painting style, painterly, dark fantasy, gritty texture, atmospheric, concept art.
 ```
 </details>
 
-### &lt;lora:xmen2011-storm:1&gt; xstromx
+### Semi-realism
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/45edee34b61562a15d14904f3b0108cd.jpeg" width="400" alt="&lt;lora:xmen2011-storm:1&gt; xstromx" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/be9dbf90bad4220190c6833577420389.jpeg" width="400" alt="Semi-realism" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-<lora:xmen2011-storm:1> xstromx, white hair, short hair, spiked hair, hair between eyes, brown eyes, lipstick, dark-skinned female,
+Semi-realism, ma1ma1helmes_b_illu, 
+(1girl, solo, masterpiece, best quality, very aesthetic, amazing quality, absurdres, newest, simple background), BREAK, 
+sheep girl, cute, playing guitar, morning, :3, small cat asleep on head
 ```
 </details>
 
-### photo realistic
+### Generate a portrait oriented image of a machine in
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/db23e7244d169728cef06bbb28bb0854.jpeg" width="400" alt="photo realistic" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/124ee6443eabb3c325f9687149dcd64c.jpeg" width="400" alt="Generate a portrait oriented image of a machine in" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-photo realistic, high quality photo, realistic, full length photograph, 16k, HDR, uber detailed.
-d351 d4rk is wearing a bubblegum pink corduroy button-down long-sleeved shirt made cropped by a knot tied in the front, white tailored slacks with checkerboard of squares of thin grey & green plaid stripes and black leather stiletto pumps. Her hair is pinned back in a pony-tail and she has small gold hoop earrings and a simple gold chain. She is standing with one hand on her hip, her feet placed crossed, she is in the middle of a busy New York City street between rows of cars stuck in traffic.
+Generate a portrait oriented image of a machine in a dark first at night, autumn, dark fantasy style. <lora:YFG-FutureIsDark-ZIB-v1-3k:1.0>
 ```
 </details>
 
-### (ultra realistic
+### This image is a surreal
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/c0090946718de495261d663a31d750bb.jpeg" width="400" alt="(ultra realistic" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/d6b3c997939a61622c4ed7dbdb6a9d6d.jpeg" width="400" alt="This image is a surreal" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-(ultra realistic,32k,masterpiece:1.4),(high detailed skin:1.1),( high quality:1.1), (ultra high res:1.4), (masterpiece), (beautiful lighting:1.4), (high quality, dynamic angle:1.4), (high resolution:1.3), (incredibly detailed:1.28), cinematic lighting, masterpiece, perfect anatomy, absurdres, Smooth_Quality, thick outline, black outline, thick lineart, western comics style, DISNEY_ANIMATION, cinematic light,
-1girl, Jessie pokemon hair down, Jessiepokemonhairdown, Jessie_pokemon_hair_down, huge breasts, long hair, pink hair, Blue Eyes, hair over one eye, team rocket, team rocket uniform, short sleeves, navel, crop top, elbow gloves, Black gloves, miniskirt, Bare legs, thighhighs, black legwear,
-looking at viewer, piercings, facial piercings,
-Seductive, smirk, flirty, blush, horny expression, moan, 
-Pokemon, pokemon trainer, pokeballs on belt, large pokeballs, holding a poke ball, sitting on tree stump, 
-Smirk,
-Outside, woods, trail, trees, bushes,
+This image is a surreal, painted artwork blending elements of classical maritime painting with absurd humor. The style consist of dramatic style of 19th-century Romantic oil paintings, like those of J.M.W. Turner or Ivan Aivazovsky, with dynamic waves, dramatic lighting, and a sense of peril at sea. The color palette is oceanic and moody—deep blues and teals for the water, soft sky blues fading to pale yellows at the horizon, and stark contrasts in the subjects for comedic emphasis. The composition is action-oriented, with the foreground dominated by chaos emerging from the waves, while the background provides context for the scene's scale. The overall vibe is whimsical and chaotic, turning a terrifying oceanic encounter into a playful, anthropomorphic farce.
+The Shark is the main focus of the painting. The shark is centrally positioned and leaping partially out of the water from right to left, this is a large great white shark with a realistic yet exaggerated anatomy. Its massive jaws are wide open in a ferocious roar, revealing rows of sharp white teeth and a pinkish red interior mouth. The body is grayish white with subtle shading for muscle and texture, dorsal fin slicing through the waves, and water splashing dramatically around its form. The shark's eye is small and black, focused forward in predatory intent.
+Perched triumphantly atop the shark's back like a rider on a steed, a sleek black cat with wide, yellow eyes stares directly at the viewer with a mix of surprise and determination. Its fur is glossy and detailed, with paws gripping the shark's skin for balance—one front paw extended as if clawing or steering. The cat's expression is comically intense, ears perked and whiskers visible, adding an adorable yet fierce contrast to the shark's menace. 
+Background is a vast, turbulent ocean under a partly cloudy sky. Gentle waves ripple across the surface, with white foam and splashes adding motion. In the upper left, a tall-masted sailing ship resembling a 18th century frigate tilts precariously to one side, sails billowing as if caught in a storm or under attack. Smoke or mist trails from the ship, suggesting cannon fire or damage, evoking a historical naval battle or shipwreck scene. The horizon is calm and distant, contrasting the foreground drama.
+The artwork has a textured, canvas-like finish with visible brush strokes and subtle grain, as if scanned from a physical painting or styled to look vintage. 
 ```
 </details>
 
-### (ultra realistic
+### telephoto lens shot of 19-year-old caucasian innoc
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/42d274e1d1301621f3cc0acce9489e0d.jpeg" width="400" alt="(ultra realistic" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/b45316662f80f3752afde5fb21464a0e.jpeg" width="400" alt="telephoto lens shot of 19-year-old caucasian innoc" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-(ultra realistic,32k,masterpiece:1.4),(high detailed skin:1.1),( high quality:1.1), (ultra high res:1.4), (masterpiece), (beautiful lighting:1.4), (high quality, dynamic angle:1.4), (high resolution:1.3), (incredibly detailed:1.28), cinematic lighting, masterpiece, perfect anatomy, absurdres, Smooth_Quality, thick outline, black outline, thick lineart, western comics style, DISNEY_ANIMATION, cinematic light,
-1girl, large breasts, red hair, Jessie, Jessie from Pokémon, team rocket,
-Dark eyes, looking at viewer, piercings, facial piercings,
-Seductive, smirk, flirty, blush, horny expression, moan, 
-Pokemon, pokemon trainer, pokeballs on belt, large pokeballs, holding a poke ball, sitting on tree stump, 
-Smirk,
-Outside, woods, trail, trees, bushes, 
-Close up, from above, view from above,
+telephoto lens shot of 19-year-old caucasian innocent corporate siren girl. She has hazel-colored eyes. She has a slightly freckled skin with visible pores and fine lines around the eyes. sharp jawline with subtle dimples when smiling. thin nose with a slightly upturned tip and full lips with a natural pout. high, arched eyebrows with a slight furrow between them.. She wears a natural makeup with subtle blush on the apples of the cheeks in a rosy peach tone, light eyeshadow in a matte taupe shade applied to the crease of the eyes, and a sheer berry-toned lip gloss with a hint of shimmer..She has a long, dark brown hair styled in a sleek bun with a few strands of hair intentionally left out to create a tousled look. the bun is secured with a small, dark brown bobby pin.. Her body is slim fit, with small round-shaped breasts, muscular moderate thighs, and a thin waist. She wears a charcoal gray fitted blazer with a notch lapel, bodycon fit, button-down, showing immaculate. Her upper body is dressed in a ivory fitted button-down shirt with a point collar, long, slim fit, finished with immaculate and black scarf (silk, ribbed, with a slight sheen). Her lower body is dressed in a black fitted pencil skirt, bodycon, featuring wool blend, high-waisted, with subtle darting for a tailored fit, paired with black belt (thin, leather, with a small silver buckle), black socks (thin, sheer, with a ribbed texture), black shoes (pointed-toe pumps with a 3-inch stiletto heel). The scene is set in a modern, sleek, professional office building. Lighting is natural daylight, with minimal, due to the textured surfaces of the office furniture, soft, diffused, created by the window light, creating warm, inviting, and slightly hazy. She is kneeling on the floor, leaning against a filing cabinet, with a thoughtful look on her face., captured in a close-up, her head slightly angled to the side, body positioned kneeling, one hand resting on the filing cabinet, wearing a thoughtful expression. In the background: organized desk positioned center of the image, occupied chair positioned in front of the desk, full filing cabinet positioned side of the image, clear window positioned back of the image, turned off laptop positioned on the desk. photorealistic style realistic photography with subtle grain, minimal noise, moderate sharpness, shallow depth of field, and soft bokeh. Natural skin rendering with visible pores, imperfections, and micro-shadows. <lora:Mystic-XXX-ZIT-V5:1> <lora:nicegirls_Zimage:0.3>
 ```
 </details>
 
-### A road descending a hill in a small Caribbean town
+### A serene
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/0ba88e577b9f909a1b011a2c60ce8a1e.jpeg" width="400" alt="A road descending a hill in a small Caribbean town" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/f8e3db0ffa2588b898fd8767ebc85382.jpeg" width="400" alt="A serene" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-A road descending a hill in a small Caribbean town on the shores of the Caribbean Sea. A turquoise sea, blue sky, and large white clouds are visible.. View from the river surface, night, view from side, dynamic angle,  
-high res, high detailed, vivid color, sharp focus, sharp lines, anime color, 
-<lora:CPA:1> <lora:Luminous_Shadowscape:0.6> <lora:fluxenhancer:0.75> <lora:FLUX-daubrez-DB4RZ-v2:0.35>
+A serene, atmospheric portrait of a woman seated on a narrow balcony overlooking a quiet historic Italian street. The environment is simplified and calm, with softened architectural details and reduced visual clutter, allowing the mood to dominate over detail.
+The model sits relaxed on a small balcony chair, body turned slightly but face looking directly into the camera. Her posture is elegant and natural. She wears a light, flowing summer dress and subtle accessories, evoking a timeless Mediterranean morning. Her hair is held together by a simple red scarf with a playful white floral pattern. A cup of coffee and some fruit is on the table.
+Warm early-morning sunlight gently illuminates the model from the side, wrapping her in soft golden light and clearly separating her from the background. The lighting is optimized to flatter the skin tones and bring the model fully into focus, while the background remains slightly muted and less detailed.
+The color palette is warm and restrained: soft creams, sunlit stone, muted pastels. The atmosphere feels quiet, intimate, and nostalgic, with a sense of stillness and slow morning calm.
+Depth of field is controlled to keep the model sharp while the surrounding buildings and canal softly recede, creating visual breathing space.
+Style & camera keywords:
+cinematic lifestyle photography, soft morning light, shallow depth of field, atmospheric portrait, Mediterranean mood, simplified background, editorial calm
 ```
 </details>
 
-### refined stylized anime realism
+### A massive tree grows upside-down from the sky
 
 **Model:** nano-banana
 
-<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/daf5fc2f5994a41d55eaf0de927421f7.jpeg" width="400" alt="refined stylized anime realism" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/58e8f88b840849dcab45f6dcc8352148.jpeg" width="400" alt="A massive tree grows upside-down from the sky" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-refined stylized anime realism, (edge polished anime realism), (micro-detailed anime rendering), rich-palette anime rendering, fine contact shadow layering, micro occlusion detailing, subtle shading falloff, light-adaptive shadow diffusion, UHD quality detail, UHD skin details, balanced ambient lighting, photorealistic bounce lighting, soft gradient lighting, delicate surface reflection mapping, realistic subsurface light bounce, directional specular diffusion, (masterpiece, highly detailed, absurdres), well-rendered, polished details, refined textures, rich color depth, dynamic composition, dynamic angle, cowboy shot, uhd skin details, subsurface scattering, refined skin texture, 1girl, Galaxia, silver eyes, chestplate, pauldron, capelet, waist skirt, faulds, thigh armor, boots, holding a halberd, ((dragon riding, red dragon, on dragon's back, on dragon's neck)), flying dragon, ((giant dragon with strong forelegs)), ((from below))
+A massive tree grows upside-down from the sky, its roots spreading across the clouds like a second canopy. Below, a normal forest grows right-side up, and in the middle space between them, a young woman in a flowing white dress floats peacefully in meditation pose. She exists in the narrow gap where the two forests almost touch but never meet. Birds fly in figure-eight patterns around her, transitioning from sky birds to forest birds. Leaves fall upward and downward simultaneously, meeting at her position and swirling around her. The lighting is ethereal—golden hour from both above and below. Her hair and dress drift as if in water, defying the aerial setting.
+Vibe: Balanced between opposing worlds, meditating in the space where realities kiss
 ```
 </details>
 
